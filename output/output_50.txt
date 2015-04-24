@@ -1,0 +1,246 @@
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-388.489441,amScore:-3750.017578,lmScore:-13.487683,hmmind:34817,hypId:712,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-388.492859,amScore:-3750.051758,lmScore:-13.487683,hmmind:34817,hypId:476,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-388.741150,amScore:-3752.534668,lmScore:-13.487683,hmmind:34817,hypId:13,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-388.744568,amScore:-3752.568848,lmScore:-13.487683,hmmind:34817,hypId:602,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-388.770966,amScore:-3752.833008,lmScore:-13.487683,hmmind:34817,hypId:306,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-388.774384,amScore:-3752.867188,lmScore:-13.487683,hmmind:34817,hypId:518,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-388.784271,amScore:-3752.965820,lmScore:-13.487683,hmmind:34817,hypId:622,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-388.868713,amScore:-3753.810303,lmScore:-13.487683,hmmind:34817,hypId:461,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-388.872131,amScore:-3753.844482,lmScore:-13.487683,hmmind:34817,hypId:58,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-388.975922,amScore:-3754.882568,lmScore:-13.487683,hmmind:34817,hypId:516,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-388.979340,amScore:-3754.916748,lmScore:-13.487683,hmmind:34817,hypId:701,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.035980,amScore:-3755.482910,lmScore:-13.487683,hmmind:34817,hypId:341,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.065796,amScore:-3755.781250,lmScore:-13.487683,hmmind:34817,hypId:216,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.120422,amScore:-3756.327393,lmScore:-13.487683,hmmind:34817,hypId:610,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.123840,amScore:-3756.361572,lmScore:-13.487683,hmmind:34817,hypId:280,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.150238,amScore:-3756.625732,lmScore:-13.487683,hmmind:34817,hypId:133,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.153656,amScore:-3756.659912,lmScore:-13.487683,hmmind:34817,hypId:303,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.163544,amScore:-3756.758545,lmScore:-13.487683,hmmind:34817,hypId:37,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.227661,amScore:-3757.399658,lmScore:-13.487683,hmmind:34817,hypId:679,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.231079,amScore:-3757.433838,lmScore:-13.487683,hmmind:34817,hypId:652,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.257477,amScore:-3757.697998,lmScore:-13.487683,hmmind:34817,hypId:467,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.260895,amScore:-3757.732178,lmScore:-13.487683,hmmind:34817,hypId:2,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.270752,amScore:-3757.830811,lmScore:-13.487683,hmmind:34817,hypId:171,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.279022,amScore:-3757.913574,lmScore:-13.487683,hmmind:34817,hypId:386,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.282440,amScore:-3757.947754,lmScore:-13.487683,hmmind:34817,hypId:234,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-389.343506,amScore:-3758.558350,lmScore:-13.487683,hmmind:19692,hypId:110,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-389.346924,amScore:-3758.592529,lmScore:-13.487683,hmmind:19692,hypId:706,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.355194,amScore:-3758.675293,lmScore:-13.487683,hmmind:34817,hypId:677,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.358612,amScore:-3758.709473,lmScore:-13.487683,hmmind:34817,hypId:601,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.415253,amScore:-3759.275635,lmScore:-13.487683,hmmind:34817,hypId:617,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.445068,amScore:-3759.573975,lmScore:-13.487683,hmmind:34817,hypId:728,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.516479,amScore:-3760.288086,lmScore:-13.487683,hmmind:34817,hypId:92,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.522461,amScore:-3760.347900,lmScore:-13.487683,hmmind:34817,hypId:465,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.552307,amScore:-3760.646240,lmScore:-13.487683,hmmind:34817,hypId:333,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.573853,amScore:-3760.861816,lmScore:-13.487683,hmmind:34817,hypId:443,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.594360,amScore:-3761.066895,lmScore:-13.487683,hmmind:34817,hypId:146,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.606934,amScore:-3761.192383,lmScore:-13.487683,hmmind:34817,hypId:711,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.610352,amScore:-3761.226562,lmScore:-13.487683,hmmind:34817,hypId:169,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.636749,amScore:-3761.490723,lmScore:-13.487683,hmmind:34817,hypId:528,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-389.638336,amScore:-3761.506592,lmScore:-13.487683,hmmind:19692,hypId:222,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.640167,amScore:-3761.524902,lmScore:-13.487683,hmmind:34817,hypId:574,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.650024,amScore:-3761.623535,lmScore:-13.487683,hmmind:34817,hypId:209,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.658295,amScore:-3761.706299,lmScore:-13.487683,hmmind:34817,hypId:531,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.661713,amScore:-3761.740479,lmScore:-13.487683,hmmind:34817,hypId:613,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-389.722778,amScore:-3762.351074,lmScore:-13.487683,hmmind:19692,hypId:236,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-389.726196,amScore:-3762.385254,lmScore:-13.487683,hmmind:19692,hypId:131,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.765533,amScore:-3762.778564,lmScore:-13.487683,hmmind:34817,hypId:166,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.767181,amScore:-3762.795166,lmScore:-13.487683,hmmind:34817,hypId:81,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.767212,amScore:-3762.795410,lmScore:-13.487683,hmmind:34817,hypId:399,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.768188,amScore:-3762.805176,lmScore:-13.487683,hmmind:34817,hypId:225,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.768951,amScore:-3762.812744,lmScore:-13.487683,hmmind:34817,hypId:72,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.770599,amScore:-3762.829346,lmScore:-13.487683,hmmind:34817,hypId:714,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.798035,amScore:-3763.103516,lmScore:-13.487683,hmmind:34817,hypId:719,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-389.830017,amScore:-3763.423340,lmScore:-13.487683,hmmind:19692,hypId:272,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-389.833435,amScore:-3763.457520,lmScore:-13.487683,hmmind:19692,hypId:3,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.846069,amScore:-3763.583984,lmScore:-13.487683,hmmind:34817,hypId:591,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.875916,amScore:-3763.882324,lmScore:-13.487683,hmmind:34817,hypId:562,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.901733,amScore:-3764.140625,lmScore:-13.487683,hmmind:34817,hypId:286,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.931580,amScore:-3764.438965,lmScore:-13.487683,hmmind:34817,hypId:375,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.953125,amScore:-3764.654541,lmScore:-13.487683,hmmind:34817,hypId:316,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.973633,amScore:-3764.859619,lmScore:-13.487683,hmmind:34817,hypId:61,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.986786,amScore:-3764.991211,lmScore:-13.487683,hmmind:34817,hypId:24,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-389.990204,amScore:-3765.025391,lmScore:-13.487683,hmmind:34817,hypId:121,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.002960,amScore:-3765.152832,lmScore:-13.487683,hmmind:34817,hypId:737,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.015228,amScore:-3765.275635,lmScore:-13.487683,hmmind:34817,hypId:406,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-390.017609,amScore:-3765.299316,lmScore:-13.487683,hmmind:19692,hypId:172,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.018646,amScore:-3765.309814,lmScore:-13.487683,hmmind:34817,hypId:31,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.018921,amScore:-3765.312500,lmScore:-13.487683,hmmind:34817,hypId:319,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.018921,amScore:-3765.312256,lmScore:-13.487683,hmmind:34817,hypId:332,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.022339,amScore:-3765.346436,lmScore:-13.487683,hmmind:34817,hypId:713,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.048737,amScore:-3765.610596,lmScore:-13.487683,hmmind:34817,hypId:629,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.048767,amScore:-3765.610840,lmScore:-13.487683,hmmind:34817,hypId:202,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.052155,amScore:-3765.644775,lmScore:-13.487683,hmmind:34817,hypId:495,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.060364,amScore:-3765.726807,lmScore:-13.487683,hmmind:34817,hypId:346,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.062012,amScore:-3765.743408,lmScore:-13.487683,hmmind:34817,hypId:339,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.062042,amScore:-3765.743652,lmScore:-13.487683,hmmind:34817,hypId:641,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.080872,amScore:-3765.931885,lmScore:-13.487683,hmmind:34817,hypId:604,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-390.124847,amScore:-3766.371582,lmScore:-13.487683,hmmind:19692,hypId:544,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.144806,amScore:-3766.571289,lmScore:-13.487683,hmmind:34817,hypId:64,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.146454,amScore:-3766.587891,lmScore:-13.487683,hmmind:34817,hypId:543,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.148224,amScore:-3766.605469,lmScore:-13.487683,hmmind:34817,hypId:453,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.149872,amScore:-3766.622070,lmScore:-13.487683,hmmind:34817,hypId:709,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-390.209290,amScore:-3767.216064,lmScore:-13.487683,hmmind:19692,hypId:28,num:5,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-390.212708,amScore:-3767.250244,lmScore:-13.487683,hmmind:19692,hypId:42,num:5,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.225342,amScore:-3767.376709,lmScore:-13.487683,hmmind:34817,hypId:407,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.238525,amScore:-3767.508301,lmScore:-13.487683,hmmind:34817,hypId:23,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.241943,amScore:-3767.542480,lmScore:-13.487683,hmmind:34817,hypId:124,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.253723,amScore:-3767.660400,lmScore:-13.487683,hmmind:34817,hypId:614,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.254669,amScore:-3767.669922,lmScore:-13.487683,hmmind:34817,hypId:506,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.255188,amScore:-3767.675049,lmScore:-13.487683,hmmind:34817,hypId:181,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.268341,amScore:-3767.806641,lmScore:-13.487683,hmmind:34817,hypId:330,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.271759,amScore:-3767.840820,lmScore:-13.487683,hmmind:34817,hypId:342,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.281616,amScore:-3767.939453,lmScore:-13.487683,hmmind:34817,hypId:514,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.284515,amScore:-3767.968262,lmScore:-13.487683,hmmind:34817,hypId:135,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.306091,amScore:-3768.184082,lmScore:-13.487683,hmmind:34817,hypId:140,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.310059,amScore:-3768.223877,lmScore:-13.487683,hmmind:34817,hypId:455,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.313721,amScore:-3768.260498,lmScore:-13.487683,hmmind:34817,hypId:266,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.313751,amScore:-3768.260742,lmScore:-13.487683,hmmind:34817,hypId:258,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.332581,amScore:-3768.448975,lmScore:-13.487683,hmmind:34817,hypId:577,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.343567,amScore:-3768.558838,lmScore:-13.487683,hmmind:34817,hypId:700,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.343597,amScore:-3768.559082,lmScore:-13.487683,hmmind:34817,hypId:499,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.362396,amScore:-3768.747314,lmScore:-13.487683,hmmind:34817,hypId:283,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.366058,amScore:-3768.783936,lmScore:-13.487683,hmmind:34817,hypId:349,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.369476,amScore:-3768.818115,lmScore:-13.487683,hmmind:34817,hypId:522,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-390.370575,amScore:-3768.828857,lmScore:-13.487683,hmmind:19692,hypId:76,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.383972,amScore:-3768.962891,lmScore:-13.487683,hmmind:34817,hypId:18,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.394501,amScore:-3769.068359,lmScore:-13.487683,hmmind:34817,hypId:327,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.397919,amScore:-3769.102539,lmScore:-13.487683,hmmind:34817,hypId:167,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.398193,amScore:-3769.104980,lmScore:-13.487683,hmmind:34817,hypId:552,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.401611,amScore:-3769.139160,lmScore:-13.487683,hmmind:34817,hypId:409,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.428009,amScore:-3769.403320,lmScore:-13.487683,hmmind:34817,hypId:87,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.431427,amScore:-3769.437500,lmScore:-13.487683,hmmind:34817,hypId:14,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.439636,amScore:-3769.519531,lmScore:-13.487683,hmmind:34817,hypId:199,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.441284,amScore:-3769.536133,lmScore:-13.487683,hmmind:34817,hypId:130,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-390.448456,amScore:-3769.607666,lmScore:-13.487683,hmmind:19692,hypId:388,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.460144,amScore:-3769.724609,lmScore:-13.487683,hmmind:34817,hypId:403,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.501740,amScore:-3770.140625,lmScore:-13.487683,hmmind:34817,hypId:501,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-390.504120,amScore:-3770.164307,lmScore:-13.487683,hmmind:19692,hypId:611,num:5,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.505157,amScore:-3770.174805,lmScore:-13.487683,hmmind:34817,hypId:663,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.505432,amScore:-3770.177490,lmScore:-13.487683,hmmind:34817,hypId:685,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.533325,amScore:-3770.456543,lmScore:-13.487683,hmmind:34817,hypId:421,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.535248,amScore:-3770.475830,lmScore:-13.487683,hmmind:34817,hypId:214,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.548553,amScore:-3770.608643,lmScore:-13.487683,hmmind:34817,hypId:553,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.556793,amScore:-3770.691162,lmScore:-13.487683,hmmind:34817,hypId:344,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.556824,amScore:-3770.691406,lmScore:-13.487683,hmmind:34817,hypId:168,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.560211,amScore:-3770.725342,lmScore:-13.487683,hmmind:34817,hypId:33,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.563171,amScore:-3770.754883,lmScore:-13.487683,hmmind:34817,hypId:510,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.589294,amScore:-3771.016113,lmScore:-13.487683,hmmind:34817,hypId:53,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.617798,amScore:-3771.301025,lmScore:-13.487683,hmmind:34817,hypId:293,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.621216,amScore:-3771.335205,lmScore:-13.487683,hmmind:34817,hypId:334,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-390.621277,amScore:-3771.335938,lmScore:-13.487683,hmmind:19692,hypId:486,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-390.621307,amScore:-3771.336182,lmScore:-13.487683,hmmind:19692,hypId:304,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-390.624695,amScore:-3771.370117,lmScore:-13.487683,hmmind:19692,hypId:102,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.647614,amScore:-3771.599365,lmScore:-13.487683,hmmind:34817,hypId:420,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.651031,amScore:-3771.633545,lmScore:-13.487683,hmmind:34817,hypId:21,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.660889,amScore:-3771.732178,lmScore:-13.487683,hmmind:34817,hypId:450,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.689331,amScore:-3772.016602,lmScore:-13.487683,hmmind:34817,hypId:62,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.692993,amScore:-3772.053223,lmScore:-13.487683,hmmind:34817,hypId:579,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.711853,amScore:-3772.241699,lmScore:-13.487683,hmmind:34817,hypId:82,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.722839,amScore:-3772.351562,lmScore:-13.487683,hmmind:34817,hypId:192,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.741669,amScore:-3772.540039,lmScore:-13.487683,hmmind:34817,hypId:600,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.763245,amScore:-3772.755615,lmScore:-13.487683,hmmind:34817,hypId:38,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.776398,amScore:-3772.887207,lmScore:-13.487683,hmmind:34817,hypId:368,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.779816,amScore:-3772.921387,lmScore:-13.487683,hmmind:34817,hypId:290,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.792572,amScore:-3773.048828,lmScore:-13.487683,hmmind:34817,hypId:435,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.794220,amScore:-3773.065430,lmScore:-13.487683,hmmind:34817,hypId:347,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.796570,amScore:-3773.088867,lmScore:-13.487683,hmmind:34817,hypId:325,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.800262,amScore:-3773.125732,lmScore:-13.487683,hmmind:34817,hypId:491,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-390.827728,amScore:-3773.400391,lmScore:-13.487683,hmmind:19692,hypId:504,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.830078,amScore:-3773.424072,lmScore:-13.487683,hmmind:34817,hypId:548,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.838989,amScore:-3773.513184,lmScore:-13.487683,hmmind:34817,hypId:235,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-390.840881,amScore:-3773.531982,lmScore:-13.487683,hmmind:19692,hypId:284,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.841003,amScore:-3773.533203,lmScore:-13.487683,hmmind:34817,hypId:560,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.842407,amScore:-3773.547363,lmScore:-13.487683,hmmind:34817,hypId:413,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-390.844299,amScore:-3773.566162,lmScore:-13.487683,hmmind:19692,hypId:559,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.851624,amScore:-3773.639404,lmScore:-13.487683,hmmind:34817,hypId:718,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.851654,amScore:-3773.639648,lmScore:-13.487683,hmmind:34817,hypId:212,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-390.857056,amScore:-3773.693604,lmScore:-13.487683,hmmind:19692,hypId:502,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.870453,amScore:-3773.827881,lmScore:-13.487683,hmmind:34817,hypId:356,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.870819,amScore:-3773.831543,lmScore:-13.487683,hmmind:34817,hypId:154,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.872131,amScore:-3773.844482,lmScore:-13.487683,hmmind:34817,hypId:624,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.872162,amScore:-3773.844727,lmScore:-13.487683,hmmind:34817,hypId:433,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.881012,amScore:-3773.933350,lmScore:-13.487683,hmmind:34817,hypId:582,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.884430,amScore:-3773.967529,lmScore:-13.487683,hmmind:34817,hypId:524,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.912598,amScore:-3774.249268,lmScore:-13.487683,hmmind:34817,hypId:152,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-390.916107,amScore:-3774.284180,lmScore:-13.487683,hmmind:19692,hypId:592,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-390.916138,amScore:-3774.284424,lmScore:-13.487683,hmmind:19692,hypId:274,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-390.934937,amScore:-3774.472656,lmScore:-13.487683,hmmind:19692,hypId:666,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.936066,amScore:-3774.483887,lmScore:-13.487683,hmmind:34817,hypId:587,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.939484,amScore:-3774.518066,lmScore:-13.487683,hmmind:34817,hypId:180,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.942444,amScore:-3774.547607,lmScore:-13.487683,hmmind:34817,hypId:298,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-390.968567,amScore:-3774.808838,lmScore:-13.487683,hmmind:34817,hypId:428,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-391.000549,amScore:-3775.128662,lmScore:-13.487683,hmmind:19692,hypId:65,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-391.003967,amScore:-3775.162842,lmScore:-13.487683,hmmind:19692,hypId:128,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.013855,amScore:-3775.261719,lmScore:-13.487683,hmmind:34817,hypId:566,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.042297,amScore:-3775.546143,lmScore:-13.487683,hmmind:34817,hypId:683,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.043304,amScore:-3775.556396,lmScore:-13.487683,hmmind:34817,hypId:539,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.044983,amScore:-3775.572998,lmScore:-13.487683,hmmind:34817,hypId:137,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.045929,amScore:-3775.582520,lmScore:-13.487683,hmmind:34817,hypId:159,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.071228,amScore:-3775.835449,lmScore:-13.487683,hmmind:34817,hypId:639,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.075775,amScore:-3775.880859,lmScore:-13.487683,hmmind:34817,hypId:29,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.075775,amScore:-3775.881104,lmScore:-13.487683,hmmind:34817,hypId:358,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.091736,amScore:-3776.040527,lmScore:-13.487683,hmmind:34817,hypId:150,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-391.107788,amScore:-3776.201172,lmScore:-13.487683,hmmind:19692,hypId:348,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.123840,amScore:-3776.361572,lmScore:-13.487683,hmmind:34817,hypId:229,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.123871,amScore:-3776.361816,lmScore:-13.487683,hmmind:34817,hypId:1,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.130951,amScore:-3776.432861,lmScore:-13.487683,hmmind:34817,hypId:200,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.134369,amScore:-3776.467041,lmScore:-13.487683,hmmind:34817,hypId:594,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-391.135712,amScore:-3776.480225,lmScore:-13.487683,hmmind:19692,hypId:250,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.153656,amScore:-3776.659912,lmScore:-13.487683,hmmind:34817,hypId:631,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.153687,amScore:-3776.660156,lmScore:-13.487683,hmmind:34817,hypId:724,num:6,ref:2
+result:sp Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sp|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.154846,amScore:-3776.671631,lmScore:-13.487683,hmmind:34817,hypId:242,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.155670,amScore:-3776.679932,lmScore:-13.487683,hmmind:34817,hypId:400,num:6,ref:2
+result:sp Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sp|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.158264,amScore:-3776.705811,lmScore:-13.487683,hmmind:34817,hypId:488,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.159088,amScore:-3776.714111,lmScore:-13.487683,hmmind:34817,hypId:144,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.175842,amScore:-3776.881592,lmScore:-13.487683,hmmind:34817,hypId:277,num:6,ref:3
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.218262,amScore:-3777.305908,lmScore:-13.487683,hmmind:34817,hypId:132,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.219086,amScore:-3777.313965,lmScore:-13.487683,hmmind:34817,hypId:540,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-391.220154,amScore:-3777.324707,lmScore:-13.487683,hmmind:19692,hypId:462,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.220276,amScore:-3777.325928,lmScore:-13.487683,hmmind:34817,hypId:123,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.221680,amScore:-3777.340088,lmScore:-13.487683,hmmind:34817,hypId:635,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.222504,amScore:-3777.348145,lmScore:-13.487683,hmmind:34817,hypId:535,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-391.223572,amScore:-3777.358887,lmScore:-13.487683,hmmind:19692,hypId:78,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.230896,amScore:-3777.432129,lmScore:-13.487683,hmmind:34817,hypId:127,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.249725,amScore:-3777.620605,lmScore:-13.487683,hmmind:34817,hypId:288,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.250092,amScore:-3777.624268,lmScore:-13.487683,hmmind:34817,hypId:479,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.251404,amScore:-3777.637207,lmScore:-13.487683,hmmind:34817,hypId:561,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.264587,amScore:-3777.769043,lmScore:-13.487683,hmmind:34817,hypId:558,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.265564,amScore:-3777.778809,lmScore:-13.487683,hmmind:34817,hypId:282,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.292999,amScore:-3778.053223,lmScore:-13.487683,hmmind:34817,hypId:206,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.293030,amScore:-3778.053467,lmScore:-13.487683,hmmind:34817,hypId:321,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-391.295380,amScore:-3778.076904,lmScore:-13.487683,hmmind:19692,hypId:106,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.295380,amScore:-3778.077148,lmScore:-13.487683,hmmind:34817,hypId:637,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.296417,amScore:-3778.087402,lmScore:-13.487683,hmmind:34817,hypId:537,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.296692,amScore:-3778.090088,lmScore:-13.487683,hmmind:34817,hypId:16,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-391.314209,amScore:-3778.265381,lmScore:-13.487683,hmmind:19692,hypId:12,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.325500,amScore:-3778.378174,lmScore:-13.487683,hmmind:34817,hypId:727,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.326508,amScore:-3778.388428,lmScore:-13.487683,hmmind:34817,hypId:118,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.327515,amScore:-3778.398193,lmScore:-13.487683,hmmind:34817,hypId:454,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.328918,amScore:-3778.412354,lmScore:-13.487683,hmmind:34817,hypId:355,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.338135,amScore:-3778.504639,lmScore:-13.487683,hmmind:34817,hypId:129,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.339813,amScore:-3778.521240,lmScore:-13.487683,hmmind:34817,hypId:104,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.343445,amScore:-3778.557617,lmScore:-13.487683,hmmind:34817,hypId:197,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.357330,amScore:-3778.696533,lmScore:-13.487683,hmmind:34817,hypId:446,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.358643,amScore:-3778.709717,lmScore:-13.487683,hmmind:34817,hypId:301,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.373260,amScore:-3778.855957,lmScore:-13.487683,hmmind:34817,hypId:651,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.382690,amScore:-3778.949951,lmScore:-13.487683,hmmind:34817,hypId:481,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.386108,amScore:-3778.984131,lmScore:-13.487683,hmmind:34817,hypId:142,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-391.402618,amScore:-3779.149414,lmScore:-13.487683,hmmind:19692,hypId:149,num:5,ref:1
+result:sp Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sp|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.406555,amScore:-3779.188721,lmScore:-13.487683,hmmind:34817,hypId:419,num:6,ref:1
+result:sp Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sp|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.409973,amScore:-3779.222900,lmScore:-13.487683,hmmind:34817,hypId:426,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.412506,amScore:-3779.248291,lmScore:-13.487683,hmmind:34817,hypId:74,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.455048,amScore:-3779.673828,lmScore:-13.487683,hmmind:34817,hypId:262,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.617462,amScore:-3781.297852,lmScore:-13.487683,hmmind:34817,hypId:328,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.620880,amScore:-3781.332031,lmScore:-13.487683,hmmind:34817,hypId:538,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.704773,amScore:-3782.170898,lmScore:-13.487683,hmmind:34817,hypId:66,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.708191,amScore:-3782.205078,lmScore:-13.487683,hmmind:34817,hypId:456,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.736603,amScore:-3782.489258,lmScore:-13.487683,hmmind:34817,hypId:483,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.869171,amScore:-3783.814941,lmScore:-13.487683,hmmind:34817,hypId:390,num:6,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.899017,amScore:-3784.113281,lmScore:-13.487683,hmmind:34817,hypId:44,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.902435,amScore:-3784.147461,lmScore:-13.487683,hmmind:34817,hypId:377,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|,totalScore:-391.912292,amScore:-3784.246094,lmScore:-13.487683,hmmind:34817,hypId:248,num:6,ref:2
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-392.309143,amScore:-3788.214600,lmScore:-13.487683,hmmind:19692,hypId:237,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-392.471558,amScore:-3789.838623,lmScore:-13.487683,hmmind:19692,hypId:632,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|,totalScore:-392.474976,amScore:-3789.872803,lmScore:-13.487683,hmmind:19692,hypId:184,num:5,ref:1
+result:sil Ότµ¶ <eps> <eps> <eps> <eps> <eps> ,hmmseq:<eps>|sil|j+i3|j-i3+ee3|i3-ee3+nn|ee3-nn+d|nn-d+aa1|,totalScore:-393.095795,amScore:-3796.081055,lmScore:-13.487683,hmmind:26640,hypId:188,num:7,ref:1

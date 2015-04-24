@@ -1,0 +1,500 @@
+totalScore is -390.530396, lmScore is -12.631194, amScore is -377.899200, result is sil sp 是 ,num 3 
+totalScore is -408.757782, lmScore is -11.864360, amScore is -396.893433, result is sil sp 石头 ,num 3 
+totalScore is -319.395416, lmScore is -17.637651, amScore is -301.757751, result is sil sp ,num 2 
+totalScore is -228.408051, lmScore is -13.086735, amScore is -215.321320, result is sil sp 锤子 ,num 3 
+totalScore is -236.901794, lmScore is -11.949480, amScore is -224.952316, result is sil sp 出 ,num 3 
+totalScore is -273.787231, lmScore is -17.864361, amScore is -255.922867, result is sil sp 剪刀 ,num 3 
+totalScore is -302.746826, lmScore is -11.963236, amScore is -290.783600, result is sil sp 你 ,num 3 
+totalScore is -383.040466, lmScore is -18.033218, amScore is -365.007233, result is sil sp  ,num 3 
+totalScore is -491.704712, lmScore is -12.681551, amScore is -479.023163, result is sil sp 了 ,num 3 
+totalScore is -290.719574, lmScore is -12.687618, amScore is -278.031952, result is sil sp 的 ,num 3 
+totalScore is -198.517822, lmScore is -19.058899, amScore is -179.458923, result is sil sp 平 ,num 3 
+totalScore is -272.603638, lmScore is -13.087712, amScore is -259.515930, result is sil sp 布 ,num 3 
+totalScore is -390.517334, lmScore is -12.631194, amScore is -377.886139, result is sil sp 是 ,num 3 
+totalScore is -408.744781, lmScore is -11.864360, amScore is -396.880432, result is sil sp 石头 ,num 3 
+totalScore is -319.382385, lmScore is -17.637651, amScore is -301.744720, result is sil sp ,num 2 
+totalScore is -228.395004, lmScore is -13.086735, amScore is -215.308273, result is sil sp 锤子 ,num 3 
+totalScore is -236.888763, lmScore is -11.949480, amScore is -224.939285, result is sil sp 出 ,num 3 
+totalScore is -273.774170, lmScore is -17.864361, amScore is -255.909821, result is sil sp 剪刀 ,num 3 
+totalScore is -302.733765, lmScore is -11.963236, amScore is -290.770538, result is sil sp 你 ,num 3 
+totalScore is -383.027405, lmScore is -18.033218, amScore is -364.994171, result is sil sp  ,num 3 
+totalScore is -491.691650, lmScore is -12.681551, amScore is -479.010101, result is sil sp 了 ,num 3 
+totalScore is -290.706543, lmScore is -12.687618, amScore is -278.018921, result is sil sp 的 ,num 3 
+totalScore is -198.504776, lmScore is -19.058899, amScore is -179.445877, result is sil sp 平 ,num 3 
+totalScore is -272.590576, lmScore is -13.087712, amScore is -259.502869, result is sil sp 布 ,num 3 
+totalScore is -382.446045, lmScore is -9.197600, amScore is -373.248444, result is sp 是 ,num 2 
+totalScore is -400.687531, lmScore is -8.430766, amScore is -392.256775, result is sp 石头 ,num 2 
+totalScore is -311.482422, lmScore is -14.204058, amScore is -297.278351, result is sp ,num 1 
+totalScore is -220.113541, lmScore is -9.653141, amScore is -210.460403, result is sp 锤子 ,num 2 
+totalScore is -228.615265, lmScore is -8.515886, amScore is -220.099380, result is sp 出 ,num 2 
+totalScore is -265.520721, lmScore is -14.430766, amScore is -251.089951, result is sp 剪刀 ,num 2 
+totalScore is -294.732605, lmScore is -8.529642, amScore is -286.202972, result is sp 你 ,num 2 
+totalScore is -375.187988, lmScore is -14.599625, amScore is -360.588379, result is sp  ,num 2 
+totalScore is -483.893127, lmScore is -9.247957, amScore is -474.645172, result is sp 了 ,num 2 
+totalScore is -282.558472, lmScore is -9.254025, amScore is -273.304443, result is sp 的 ,num 2 
+totalScore is -190.200546, lmScore is -15.625305, amScore is -174.575241, result is sp 平 ,num 2 
+totalScore is -391.038574, lmScore is -12.631194, amScore is -378.407379, result is sil sp 是 ,num 3 
+totalScore is -409.376617, lmScore is -11.864360, amScore is -397.512268, result is sil sp 石头 ,num 3 
+totalScore is -319.735382, lmScore is -17.637651, amScore is -302.097717, result is sil sp ,num 2 
+totalScore is -228.391174, lmScore is -13.086735, amScore is -215.304443, result is sil sp 锤子 ,num 3 
+totalScore is -236.962280, lmScore is -11.949480, amScore is -225.012802, result is sil sp 出 ,num 3 
+totalScore is -274.308990, lmScore is -17.864361, amScore is -256.444641, result is sil sp 剪刀 ,num 3 
+totalScore is -303.257843, lmScore is -11.963236, amScore is -291.294617, result is sil sp 你 ,num 3 
+totalScore is -383.172241, lmScore is -18.033218, amScore is -365.139008, result is sil sp  ,num 3 
+totalScore is -492.366577, lmScore is -12.681551, amScore is -479.685028, result is sil sp 了 ,num 3 
+totalScore is -291.133453, lmScore is -12.687618, amScore is -278.445831, result is sil sp 的 ,num 3 
+totalScore is -198.522064, lmScore is -19.058899, amScore is -179.463165, result is sil sp 平 ,num 3 
+totalScore is -272.847931, lmScore is -13.087712, amScore is -259.760223, result is sil sp 布 ,num 3 
+totalScore is -382.967255, lmScore is -9.197600, amScore is -373.769653, result is sp 是 ,num 2 
+totalScore is -401.319427, lmScore is -8.430766, amScore is -392.888672, result is sp 石头 ,num 2 
+totalScore is -311.835419, lmScore is -14.204058, amScore is -297.631348, result is sp ,num 1 
+totalScore is -220.109726, lmScore is -9.653141, amScore is -210.456589, result is sp 锤子 ,num 2 
+totalScore is -228.688782, lmScore is -8.515886, amScore is -220.172897, result is sp 出 ,num 2 
+totalScore is -266.055511, lmScore is -14.430766, amScore is -251.624756, result is sp 剪刀 ,num 2 
+totalScore is -295.256683, lmScore is -8.529642, amScore is -286.727051, result is sp 你 ,num 2 
+totalScore is -375.332825, lmScore is -14.599625, amScore is -360.733185, result is sp  ,num 2 
+totalScore is -484.568054, lmScore is -9.247957, amScore is -475.320099, result is sp 了 ,num 2 
+totalScore is -282.985382, lmScore is -9.254025, amScore is -273.731354, result is sp 的 ,num 2 
+totalScore is -190.217834, lmScore is -15.625305, amScore is -174.592529, result is sp 平 ,num 2 
+totalScore is -391.596619, lmScore is -12.631194, amScore is -378.965424, result is sil sp 是 ,num 3 
+totalScore is -410.044037, lmScore is -11.864360, amScore is -398.179688, result is sil sp 石头 ,num 3 
+totalScore is -320.112000, lmScore is -17.637651, amScore is -302.474335, result is sil sp ,num 2 
+totalScore is -228.407486, lmScore is -13.086735, amScore is -215.320755, result is sil sp 锤子 ,num 3 
+totalScore is -237.057648, lmScore is -11.949480, amScore is -225.108170, result is sil sp 出 ,num 3 
+totalScore is -274.854919, lmScore is -17.864361, amScore is -256.990570, result is sil sp 剪刀 ,num 3 
+totalScore is -303.804962, lmScore is -11.963236, amScore is -291.841736, result is sil sp 你 ,num 3 
+totalScore is -383.345093, lmScore is -18.033218, amScore is -365.311859, result is sil sp  ,num 3 
+totalScore is -493.070862, lmScore is -12.681551, amScore is -480.389313, result is sil sp 了 ,num 3 
+totalScore is -291.582245, lmScore is -12.687618, amScore is -278.894623, result is sil sp 的 ,num 3 
+totalScore is -198.560089, lmScore is -19.058899, amScore is -179.501190, result is sil sp 平 ,num 3 
+totalScore is -273.121674, lmScore is -13.087712, amScore is -260.033966, result is sil sp 布 ,num 3 
+totalScore is -391.583557, lmScore is -12.631194, amScore is -378.952362, result is sil sp 是 ,num 3 
+totalScore is -410.030975, lmScore is -11.864360, amScore is -398.166626, result is sil sp 石头 ,num 3 
+totalScore is -320.098938, lmScore is -17.637651, amScore is -302.461273, result is sil sp ,num 2 
+totalScore is -228.394440, lmScore is -13.086735, amScore is -215.307709, result is sil sp 锤子 ,num 3 
+totalScore is -237.044586, lmScore is -11.949480, amScore is -225.095108, result is sil sp 出 ,num 3 
+totalScore is -274.841888, lmScore is -17.864361, amScore is -256.977539, result is sil sp 剪刀 ,num 3 
+totalScore is -303.791931, lmScore is -11.963236, amScore is -291.828705, result is sil sp 你 ,num 3 
+totalScore is -383.332031, lmScore is -18.033218, amScore is -365.298828, result is sil sp  ,num 3 
+totalScore is -493.057861, lmScore is -12.681551, amScore is -480.376312, result is sil sp 了 ,num 3 
+totalScore is -291.569183, lmScore is -12.687618, amScore is -278.881561, result is sil sp 的 ,num 3 
+totalScore is -198.547043, lmScore is -19.058899, amScore is -179.488144, result is sil sp 平 ,num 3 
+totalScore is -273.108612, lmScore is -13.087712, amScore is -260.020905, result is sil sp 布 ,num 3 
+totalScore is -383.512268, lmScore is -9.197600, amScore is -374.314667, result is sp 是 ,num 2 
+totalScore is -401.973785, lmScore is -8.430766, amScore is -393.543030, result is sp 石头 ,num 2 
+totalScore is -312.198975, lmScore is -14.204058, amScore is -297.994904, result is sp ,num 1 
+totalScore is -220.112991, lmScore is -9.653141, amScore is -210.459854, result is sp 锤子 ,num 2 
+totalScore is -228.771088, lmScore is -8.515886, amScore is -220.255203, result is sp 出 ,num 2 
+totalScore is -266.588409, lmScore is -14.430766, amScore is -252.157654, result is sp 剪刀 ,num 2 
+totalScore is -295.790741, lmScore is -8.529642, amScore is -287.261108, result is sp 你 ,num 2 
+totalScore is -375.492615, lmScore is -14.599625, amScore is -360.893005, result is sp  ,num 2 
+totalScore is -485.259338, lmScore is -9.247957, amScore is -476.011383, result is sp 了 ,num 2 
+totalScore is -283.421173, lmScore is -9.254025, amScore is -274.167145, result is sp 的 ,num 2 
+totalScore is -190.242813, lmScore is -15.625305, amScore is -174.617508, result is sp 平 ,num 2 
+totalScore is -177.916656, lmScore is -15.625305, amScore is -162.291351, result is sp 平 ,num 2 
+totalScore is -207.645233, lmScore is -9.254025, amScore is -198.391205, result is sp 的 ,num 2 
+totalScore is -314.486328, lmScore is -9.247957, amScore is -305.238373, result is sp 了 ,num 2 
+totalScore is -313.485168, lmScore is -14.599625, amScore is -298.885559, result is sp  ,num 2 
+totalScore is -175.569397, lmScore is -8.529642, amScore is -167.039749, result is sp 你 ,num 2 
+totalScore is -191.446045, lmScore is -14.430766, amScore is -177.015274, result is sp 剪刀 ,num 2 
+totalScore is -207.312729, lmScore is -8.515886, amScore is -198.796844, result is sp 出 ,num 2 
+totalScore is -214.358597, lmScore is -9.653141, amScore is -204.705460, result is sp 锤子 ,num 2 
+totalScore is -222.118027, lmScore is -14.204058, amScore is -207.913971, result is sp ,num 1 
+totalScore is -255.253036, lmScore is -8.430766, amScore is -246.822266, result is sp 石头 ,num 2 
+totalScore is -259.498108, lmScore is -9.197600, amScore is -250.300522, result is sp 是 ,num 2 
+totalScore is -234.819672, lmScore is -7.476335, amScore is -227.343338, result is sp sil ,num 2 
+totalScore is -384.437500, lmScore is -9.197600, amScore is -375.239899, result is sp 是 ,num 2 
+totalScore is -402.977386, lmScore is -8.430766, amScore is -394.546631, result is sp 石头 ,num 2 
+totalScore is -312.541382, lmScore is -14.204058, amScore is -298.337311, result is sp ,num 1 
+totalScore is -220.422516, lmScore is -9.653141, amScore is -210.769379, result is sp 锤子 ,num 2 
+totalScore is -229.121460, lmScore is -8.515886, amScore is -220.605576, result is sp 出 ,num 2 
+totalScore is -267.252777, lmScore is -14.430766, amScore is -252.822021, result is sp 剪刀 ,num 2 
+totalScore is -296.154816, lmScore is -8.529642, amScore is -287.625183, result is sp 你 ,num 2 
+totalScore is -376.082275, lmScore is -14.599625, amScore is -361.482635, result is sp  ,num 2 
+totalScore is -486.356323, lmScore is -9.247957, amScore is -477.108368, result is sp 了 ,num 2 
+totalScore is -284.072144, lmScore is -9.254025, amScore is -274.818115, result is sp 的 ,num 2 
+totalScore is -190.386063, lmScore is -15.625305, amScore is -174.760757, result is sp 平 ,num 2 
+totalScore is -265.508789, lmScore is -9.654119, amScore is -255.854660, result is sp 布 ,num 2 
+totalScore is -231.248108, lmScore is -13.087712, amScore is -218.160400, result is sil sp 布 ,num 3 
+totalScore is -186.220886, lmScore is -19.058899, amScore is -167.161987, result is sil sp 平 ,num 3 
+totalScore is -215.793228, lmScore is -12.687618, amScore is -203.105606, result is sil sp 的 ,num 3 
+totalScore is -322.284851, lmScore is -12.681551, amScore is -309.603302, result is sil sp 了 ,num 3 
+totalScore is -321.324524, lmScore is -18.033218, amScore is -303.291321, result is sil sp  ,num 3 
+totalScore is -183.570526, lmScore is -11.963236, amScore is -171.607285, result is sil sp 你 ,num 3 
+totalScore is -199.699539, lmScore is -17.864361, amScore is -181.835175, result is sil sp 剪刀 ,num 3 
+totalScore is -215.586197, lmScore is -11.949480, amScore is -203.636719, result is sil sp 出 ,num 3 
+totalScore is -222.640030, lmScore is -13.086735, amScore is -209.553299, result is sil sp 锤子 ,num 3 
+totalScore is -230.018021, lmScore is -17.637651, amScore is -212.380371, result is sil sp ,num 2 
+totalScore is -263.310272, lmScore is -11.864360, amScore is -251.445923, result is sil sp 石头 ,num 3 
+totalScore is -267.569397, lmScore is -12.631194, amScore is -254.938217, result is sil sp 是 ,num 3 
+totalScore is -244.290253, lmScore is -10.909929, amScore is -233.380325, result is sil sp sil ,num 3 
+totalScore is -391.951233, lmScore is -12.631194, amScore is -379.320038, result is sil sp 是 ,num 3 
+totalScore is -410.491119, lmScore is -11.864360, amScore is -398.626770, result is sil sp 石头 ,num 3 
+totalScore is -320.055084, lmScore is -17.637651, amScore is -302.417419, result is sil sp ,num 2 
+totalScore is -227.936249, lmScore is -13.086735, amScore is -214.849518, result is sil sp 锤子 ,num 3 
+totalScore is -236.635162, lmScore is -11.949480, amScore is -224.685684, result is sil sp 出 ,num 3 
+totalScore is -274.766510, lmScore is -17.864361, amScore is -256.902161, result is sil sp 剪刀 ,num 3 
+totalScore is -303.668579, lmScore is -11.963236, amScore is -291.705353, result is sil sp 你 ,num 3 
+totalScore is -383.596008, lmScore is -18.033218, amScore is -365.562805, result is sil sp  ,num 3 
+totalScore is -493.870056, lmScore is -12.681551, amScore is -481.188507, result is sil sp 了 ,num 3 
+totalScore is -291.585876, lmScore is -12.687618, amScore is -278.898254, result is sil sp 的 ,num 3 
+totalScore is -197.899796, lmScore is -19.058899, amScore is -178.840897, result is sil sp 平 ,num 3 
+totalScore is -273.022461, lmScore is -13.087712, amScore is -259.934753, result is sil sp 布 ,num 3 
+totalScore is -391.947052, lmScore is -12.631194, amScore is -379.315857, result is sil sp 是 ,num 3 
+totalScore is -410.486908, lmScore is -11.864360, amScore is -398.622559, result is sil sp 石头 ,num 3 
+totalScore is -320.050903, lmScore is -17.637651, amScore is -302.413239, result is sil sp ,num 2 
+totalScore is -227.932053, lmScore is -13.086735, amScore is -214.845322, result is sil sp 锤子 ,num 3 
+totalScore is -236.630981, lmScore is -11.949480, amScore is -224.681503, result is sil sp 出 ,num 3 
+totalScore is -274.762299, lmScore is -17.864361, amScore is -256.897949, result is sil sp 剪刀 ,num 3 
+totalScore is -303.664368, lmScore is -11.963236, amScore is -291.701141, result is sil sp 你 ,num 3 
+totalScore is -383.591797, lmScore is -18.033218, amScore is -365.558594, result is sil sp  ,num 3 
+totalScore is -493.865845, lmScore is -12.681551, amScore is -481.184296, result is sil sp 了 ,num 3 
+totalScore is -291.581665, lmScore is -12.687618, amScore is -278.894043, result is sil sp 的 ,num 3 
+totalScore is -197.895615, lmScore is -19.058899, amScore is -178.836716, result is sil sp 平 ,num 3 
+totalScore is -273.018280, lmScore is -13.087712, amScore is -259.930573, result is sil sp 布 ,num 3 
+totalScore is -375.767273, lmScore is -14.599625, amScore is -361.167633, result is sp  ,num 2 
+totalScore is -486.085449, lmScore is -9.247957, amScore is -476.837494, result is sp 了 ,num 2 
+totalScore is -283.451752, lmScore is -9.254025, amScore is -274.197723, result is sp 的 ,num 2 
+totalScore is -189.607529, lmScore is -15.625305, amScore is -173.982224, result is sp 平 ,num 2 
+totalScore is -264.919373, lmScore is -9.654119, amScore is -255.265244, result is sp 布 ,num 2 
+totalScore is -231.261154, lmScore is -13.087712, amScore is -218.173447, result is sil sp 布 ,num 3 
+totalScore is -186.233917, lmScore is -19.058899, amScore is -167.175018, result is sil sp 平 ,num 3 
+totalScore is -215.806274, lmScore is -12.687618, amScore is -203.118652, result is sil sp 的 ,num 3 
+totalScore is -322.297913, lmScore is -12.681551, amScore is -309.616364, result is sil sp 了 ,num 3 
+totalScore is -321.337585, lmScore is -18.033218, amScore is -303.304382, result is sil sp  ,num 3 
+totalScore is -183.583572, lmScore is -11.963236, amScore is -171.620331, result is sil sp 你 ,num 3 
+totalScore is -199.712585, lmScore is -17.864361, amScore is -181.848221, result is sil sp 剪刀 ,num 3 
+totalScore is -215.599258, lmScore is -11.949480, amScore is -203.649780, result is sil sp 出 ,num 3 
+totalScore is -222.653061, lmScore is -13.086735, amScore is -209.566330, result is sil sp 锤子 ,num 3 
+totalScore is -230.031067, lmScore is -17.637651, amScore is -212.393417, result is sil sp ,num 2 
+totalScore is -263.323303, lmScore is -11.864360, amScore is -251.458954, result is sil sp 石头 ,num 3 
+totalScore is -267.582458, lmScore is -12.631194, amScore is -254.951279, result is sil sp 是 ,num 3 
+totalScore is -243.629974, lmScore is -10.909929, amScore is -232.720047, result is sil sp sil ,num 3 
+totalScore is -391.404755, lmScore is -12.631194, amScore is -378.773560, result is sil sp 是 ,num 3 
+totalScore is -409.958466, lmScore is -11.864360, amScore is -398.094116, result is sil sp 石头 ,num 3 
+totalScore is -319.679077, lmScore is -17.637651, amScore is -302.041412, result is sil sp ,num 2 
+totalScore is -227.180008, lmScore is -13.086735, amScore is -214.093277, result is sil sp 锤子 ,num 3 
+totalScore is -235.886780, lmScore is -11.949480, amScore is -223.937302, result is sil sp 出 ,num 3 
+totalScore is -274.037964, lmScore is -17.864361, amScore is -256.173615, result is sil sp 剪刀 ,num 3 
+totalScore is -303.191376, lmScore is -11.963236, amScore is -291.228149, result is sil sp 你 ,num 3 
+totalScore is -383.281006, lmScore is -18.033218, amScore is -365.247803, result is sil sp  ,num 3 
+totalScore is -493.599182, lmScore is -12.681551, amScore is -480.917633, result is sil sp 了 ,num 3 
+totalScore is -290.965485, lmScore is -12.687618, amScore is -278.277863, result is sil sp 的 ,num 3 
+totalScore is -197.121262, lmScore is -19.058899, amScore is -178.062363, result is sil sp 平 ,num 3 
+totalScore is -272.433075, lmScore is -13.087712, amScore is -259.345367, result is sil sp 布 ,num 3 
+totalScore is -384.611450, lmScore is -9.197600, amScore is -375.413849, result is sp 是 ,num 2 
+totalScore is -403.229706, lmScore is -8.430766, amScore is -394.798950, result is sp 石头 ,num 2 
+totalScore is -312.098175, lmScore is -14.204058, amScore is -297.894104, result is sp ,num 1 
+totalScore is -219.486877, lmScore is -9.653141, amScore is -209.833740, result is sp 锤子 ,num 2 
+totalScore is -228.203888, lmScore is -8.515886, amScore is -219.688004, result is sp 出 ,num 2 
+totalScore is -266.566254, lmScore is -14.430766, amScore is -252.135498, result is sp 剪刀 ,num 2 
+totalScore is -295.381531, lmScore is -8.529642, amScore is -286.851898, result is sp 你 ,num 2 
+totalScore is -376.454407, lmScore is -14.599625, amScore is -361.854767, result is sp  ,num 2 
+totalScore is -487.273682, lmScore is -9.247957, amScore is -478.025726, result is sp 了 ,num 2 
+totalScore is -283.687500, lmScore is -9.254025, amScore is -274.433472, result is sp 的 ,num 2 
+totalScore is -189.057343, lmScore is -15.625305, amScore is -173.432037, result is sp 平 ,num 2 
+totalScore is -265.074310, lmScore is -9.654119, amScore is -255.420181, result is sp 布 ,num 2 
+totalScore is -230.308594, lmScore is -13.087712, amScore is -217.220886, result is sil sp 布 ,num 3 
+totalScore is -184.764313, lmScore is -19.058899, amScore is -165.705414, result is sil sp 平 ,num 3 
+totalScore is -214.754990, lmScore is -12.687618, amScore is -202.067368, result is sil sp 的 ,num 3 
+totalScore is -322.109131, lmScore is -12.681551, amScore is -309.427582, result is sil sp 了 ,num 3 
+totalScore is -321.105347, lmScore is -18.033218, amScore is -303.072144, result is sil sp  ,num 3 
+totalScore is -182.422684, lmScore is -11.963236, amScore is -170.459442, result is sil sp 你 ,num 3 
+totalScore is -198.370621, lmScore is -17.864361, amScore is -180.506256, result is sil sp 剪刀 ,num 3 
+totalScore is -214.344254, lmScore is -11.949480, amScore is -202.394775, result is sil sp 出 ,num 3 
+totalScore is -221.422012, lmScore is -13.086735, amScore is -208.335281, result is sil sp 锤子 ,num 3 
+totalScore is -229.224884, lmScore is -17.637651, amScore is -211.587234, result is sil sp ,num 2 
+totalScore is -262.572968, lmScore is -11.864360, amScore is -250.708618, result is sil sp 石头 ,num 3 
+totalScore is -266.836517, lmScore is -12.631194, amScore is -254.205338, result is sil sp 是 ,num 3 
+totalScore is -243.331284, lmScore is -10.909929, amScore is -232.421356, result is sil sp sil ,num 3 
+totalScore is -187.676468, lmScore is -10.909929, amScore is -176.766541, result is sil sp sil ,num 3 
+totalScore is -199.840714, lmScore is -12.631194, amScore is -187.209518, result is sil sp 是 ,num 3 
+totalScore is -201.749710, lmScore is -11.864360, amScore is -189.885345, result is sil sp 石头 ,num 3 
+totalScore is -235.478806, lmScore is -17.637651, amScore is -217.841156, result is sil sp ,num 2 
+totalScore is -166.385742, lmScore is -13.086735, amScore is -153.299011, result is sil sp 锤子 ,num 3 
+totalScore is -166.822113, lmScore is -11.949480, amScore is -154.872635, result is sil sp 出 ,num 3 
+totalScore is -177.663727, lmScore is -17.864361, amScore is -159.799362, result is sil sp 剪刀 ,num 3 
+totalScore is -214.704742, lmScore is -11.963236, amScore is -202.741501, result is sil sp 你 ,num 3 
+totalScore is -238.077820, lmScore is -18.033218, amScore is -220.044601, result is sil sp  ,num 3 
+totalScore is -257.066589, lmScore is -12.681551, amScore is -244.385025, result is sil sp 了 ,num 3 
+totalScore is -187.333237, lmScore is -12.687618, amScore is -174.645615, result is sil sp 的 ,num 3 
+totalScore is -169.253708, lmScore is -19.058899, amScore is -150.194809, result is sil sp 平 ,num 3 
+totalScore is -199.287048, lmScore is -13.087712, amScore is -186.199341, result is sil sp 布 ,num 3 
+totalScore is -222.794876, lmScore is -9.654119, amScore is -213.140762, result is sp 布 ,num 2 
+totalScore is -177.250595, lmScore is -15.625305, amScore is -161.625290, result is sp 平 ,num 2 
+totalScore is -207.241287, lmScore is -9.254025, amScore is -197.987259, result is sp 的 ,num 2 
+totalScore is -314.595428, lmScore is -9.247957, amScore is -305.347473, result is sp 了 ,num 2 
+totalScore is -313.591675, lmScore is -14.599625, amScore is -298.992065, result is sp  ,num 2 
+totalScore is -376.355713, lmScore is -14.599625, amScore is -361.756104, result is sp  ,num 2 
+totalScore is -487.174561, lmScore is -9.247957, amScore is -477.926605, result is sp 了 ,num 2 
+totalScore is -284.108398, lmScore is -9.254025, amScore is -274.854370, result is sp 的 ,num 2 
+totalScore is -189.742004, lmScore is -15.625305, amScore is -174.116699, result is sp 平 ,num 2 
+totalScore is -265.428192, lmScore is -9.654119, amScore is -255.774063, result is sp 布 ,num 2 
+totalScore is -230.893799, lmScore is -13.087712, amScore is -217.806091, result is sil sp 布 ,num 3 
+totalScore is -185.538651, lmScore is -19.058899, amScore is -166.479752, result is sil sp 平 ,num 3 
+totalScore is -215.371185, lmScore is -12.687618, amScore is -202.683563, result is sil sp 的 ,num 3 
+totalScore is -322.375793, lmScore is -12.681551, amScore is -309.694244, result is sil sp 了 ,num 3 
+totalScore is -321.416199, lmScore is -18.033218, amScore is -303.382996, result is sil sp  ,num 3 
+totalScore is -182.895676, lmScore is -11.963236, amScore is -170.932434, result is sil sp 你 ,num 3 
+totalScore is -199.094971, lmScore is -17.864361, amScore is -181.230606, result is sil sp 剪刀 ,num 3 
+totalScore is -215.088455, lmScore is -11.949480, amScore is -203.138977, result is sil sp 出 ,num 3 
+totalScore is -222.174088, lmScore is -13.086735, amScore is -209.087357, result is sil sp 锤子 ,num 3 
+totalScore is -229.596725, lmScore is -17.637651, amScore is -211.959076, result is sil sp ,num 2 
+totalScore is -263.101440, lmScore is -11.864360, amScore is -251.237091, result is sil sp 石头 ,num 3 
+totalScore is -267.378784, lmScore is -12.631194, amScore is -254.747604, result is sil sp 是 ,num 3 
+totalScore is -243.948944, lmScore is -10.909929, amScore is -233.039017, result is sil sp sil ,num 3 
+totalScore is -392.318573, lmScore is -12.631194, amScore is -379.687378, result is sil sp 是 ,num 3 
+totalScore is -410.954376, lmScore is -11.864360, amScore is -399.090027, result is sil sp 石头 ,num 3 
+totalScore is -320.023834, lmScore is -17.637651, amScore is -302.386169, result is sil sp ,num 2 
+totalScore is -227.474335, lmScore is -13.086735, amScore is -214.387604, result is sil sp 锤子 ,num 3 
+totalScore is -236.222015, lmScore is -11.949480, amScore is -224.272537, result is sil sp 出 ,num 3 
+totalScore is -274.690063, lmScore is -17.864361, amScore is -256.825714, result is sil sp 剪刀 ,num 3 
+totalScore is -303.558228, lmScore is -11.963236, amScore is -291.595001, result is sil sp 你 ,num 3 
+totalScore is -383.869507, lmScore is -18.033218, amScore is -365.836273, result is sil sp  ,num 3 
+totalScore is -494.688232, lmScore is -12.681551, amScore is -482.006683, result is sil sp 了 ,num 3 
+totalScore is -291.622131, lmScore is -12.687618, amScore is -278.934509, result is sil sp 的 ,num 3 
+totalScore is -197.255737, lmScore is -19.058899, amScore is -178.196838, result is sil sp 平 ,num 3 
+totalScore is -272.941895, lmScore is -13.087712, amScore is -259.854187, result is sil sp 布 ,num 3 
+totalScore is -384.248444, lmScore is -9.197600, amScore is -375.050842, result is sp 是 ,num 2 
+totalScore is -402.898468, lmScore is -8.430766, amScore is -394.467712, result is sp 石头 ,num 2 
+totalScore is -312.127869, lmScore is -14.204058, amScore is -297.923798, result is sp ,num 1 
+totalScore is -219.193359, lmScore is -9.653141, amScore is -209.540222, result is sp 锤子 ,num 2 
+totalScore is -227.949158, lmScore is -8.515886, amScore is -219.433273, result is sp 出 ,num 2 
+totalScore is -266.437317, lmScore is -14.430766, amScore is -252.006546, result is sp 剪刀 ,num 2 
+totalScore is -295.562286, lmScore is -8.529642, amScore is -287.032654, result is sp 你 ,num 2 
+totalScore is -376.031372, lmScore is -14.599625, amScore is -361.431732, result is sp  ,num 2 
+totalScore is -486.896423, lmScore is -9.247957, amScore is -477.648468, result is sp 了 ,num 2 
+totalScore is -283.476685, lmScore is -9.254025, amScore is -274.222656, result is sp 的 ,num 2 
+totalScore is -188.951569, lmScore is -15.625305, amScore is -173.326263, result is sp 平 ,num 2 
+totalScore is -264.828308, lmScore is -9.654119, amScore is -255.174179, result is sp 布 ,num 2 
+totalScore is -230.897980, lmScore is -13.087712, amScore is -217.810272, result is sil sp 布 ,num 3 
+totalScore is -185.542847, lmScore is -19.058899, amScore is -166.483948, result is sil sp 平 ,num 3 
+totalScore is -215.375381, lmScore is -12.687618, amScore is -202.687759, result is sil sp 的 ,num 3 
+totalScore is -322.379974, lmScore is -12.681551, amScore is -309.698425, result is sil sp 了 ,num 3 
+totalScore is -321.420349, lmScore is -18.033218, amScore is -303.387146, result is sil sp  ,num 3 
+totalScore is -182.899872, lmScore is -11.963236, amScore is -170.936630, result is sil sp 你 ,num 3 
+totalScore is -199.099167, lmScore is -17.864361, amScore is -181.234802, result is sil sp 剪刀 ,num 3 
+totalScore is -215.092636, lmScore is -11.949480, amScore is -203.143158, result is sil sp 出 ,num 3 
+totalScore is -222.178268, lmScore is -13.086735, amScore is -209.091537, result is sil sp 锤子 ,num 3 
+totalScore is -229.600906, lmScore is -17.637651, amScore is -211.963257, result is sil sp ,num 2 
+totalScore is -263.105621, lmScore is -11.864360, amScore is -251.241272, result is sil sp 石头 ,num 3 
+totalScore is -267.382996, lmScore is -12.631194, amScore is -254.751816, result is sil sp 是 ,num 3 
+totalScore is -243.274261, lmScore is -10.909929, amScore is -232.364334, result is sil sp sil ,num 3 
+totalScore is -188.336746, lmScore is -10.909929, amScore is -177.426819, result is sil sp sil ,num 3 
+totalScore is -199.827652, lmScore is -12.631194, amScore is -187.196457, result is sil sp 是 ,num 3 
+totalScore is -201.736664, lmScore is -11.864360, amScore is -189.872299, result is sil sp 石头 ,num 3 
+totalScore is -235.465775, lmScore is -17.637651, amScore is -217.828125, result is sil sp ,num 2 
+totalScore is -166.372696, lmScore is -13.086735, amScore is -153.285965, result is sil sp 锤子 ,num 3 
+totalScore is -166.809067, lmScore is -11.949480, amScore is -154.859589, result is sil sp 出 ,num 3 
+totalScore is -177.650681, lmScore is -17.864361, amScore is -159.786316, result is sil sp 剪刀 ,num 3 
+totalScore is -214.691696, lmScore is -11.963236, amScore is -202.728455, result is sil sp 你 ,num 3 
+totalScore is -238.064774, lmScore is -18.033218, amScore is -220.031555, result is sil sp  ,num 3 
+totalScore is -257.053528, lmScore is -12.681551, amScore is -244.371964, result is sil sp 了 ,num 3 
+totalScore is -187.320190, lmScore is -12.687618, amScore is -174.632568, result is sil sp 的 ,num 3 
+totalScore is -169.240662, lmScore is -19.058899, amScore is -150.181763, result is sil sp 平 ,num 3 
+totalScore is -199.273987, lmScore is -13.087712, amScore is -186.186279, result is sil sp 布 ,num 3 
+totalScore is -223.384293, lmScore is -9.654119, amScore is -213.730179, result is sp 布 ,num 2 
+totalScore is -178.029129, lmScore is -15.625305, amScore is -162.403824, result is sp 平 ,num 2 
+totalScore is -207.861679, lmScore is -9.254025, amScore is -198.607651, result is sp 的 ,num 2 
+totalScore is -314.866272, lmScore is -9.247957, amScore is -305.618317, result is sp 了 ,num 2 
+totalScore is -313.906677, lmScore is -14.599625, amScore is -299.307068, result is sp  ,num 2 
+totalScore is -175.386139, lmScore is -8.529642, amScore is -166.856491, result is sp 你 ,num 2 
+totalScore is -191.585419, lmScore is -14.430766, amScore is -177.154648, result is sp 剪刀 ,num 2 
+totalScore is -207.578934, lmScore is -8.515886, amScore is -199.063049, result is sp 出 ,num 2 
+totalScore is -214.664536, lmScore is -9.653141, amScore is -205.011398, result is sp 锤子 ,num 2 
+totalScore is -222.087189, lmScore is -14.204058, amScore is -207.883133, result is sp ,num 1 
+totalScore is -255.591904, lmScore is -8.430766, amScore is -247.161133, result is sp 石头 ,num 2 
+totalScore is -259.869263, lmScore is -9.197600, amScore is -250.671677, result is sp 是 ,num 2 
+totalScore is -235.075546, lmScore is -7.476335, amScore is -227.599213, result is sp sil ,num 2 
+totalScore is -178.866165, lmScore is -7.476335, amScore is -171.389832, result is sp sil ,num 2 
+totalScore is -191.756363, lmScore is -9.197600, amScore is -182.558762, result is sp 是 ,num 2 
+totalScore is -193.679428, lmScore is -8.430766, amScore is -185.248657, result is sp 石头 ,num 2 
+totalScore is -227.565781, lmScore is -14.204058, amScore is -213.361725, result is sp ,num 1 
+totalScore is -158.091232, lmScore is -9.653141, amScore is -148.438095, result is sp 锤子 ,num 2 
+totalScore is -158.535568, lmScore is -8.515886, amScore is -150.019684, result is sp 出 ,num 2 
+totalScore is -169.397232, lmScore is -14.430766, amScore is -154.966461, result is sp 剪刀 ,num 2 
+totalScore is -206.690552, lmScore is -8.529642, amScore is -198.160904, result is sp 你 ,num 2 
+totalScore is -230.225388, lmScore is -14.599625, amScore is -215.625763, result is sp  ,num 2 
+totalScore is -249.254990, lmScore is -9.247957, amScore is -240.007034, result is sp 了 ,num 2 
+totalScore is -179.172195, lmScore is -9.254025, amScore is -169.918167, result is sp 的 ,num 2 
+totalScore is -160.936478, lmScore is -15.625305, amScore is -145.311172, result is sp 平 ,num 2 
+totalScore is -191.157959, lmScore is -9.654119, amScore is -181.503845, result is sp 布 ,num 2 
+totalScore is -331.949615, lmScore is -13.087711, amScore is -318.861908, result is sil sp 布 ,num 3 
+totalScore is -331.920807, lmScore is -13.058899, amScore is -318.861908, result is sil sp 平 ,num 3 
+totalScore is -331.549530, lmScore is -12.687618, amScore is -318.861908, result is sil sp 的 ,num 3 
+totalScore is -331.543457, lmScore is -12.681554, amScore is -318.861908, result is sil sp 了 ,num 3 
+totalScore is -330.895142, lmScore is -12.033218, amScore is -318.861908, result is sil sp  ,num 3 
+totalScore is -330.825134, lmScore is -11.963236, amScore is -318.861908, result is sil sp 你 ,num 3 
+totalScore is -330.726257, lmScore is -11.864360, amScore is -318.861908, result is sil sp 剪刀 ,num 3 
+totalScore is -330.533783, lmScore is -11.671862, amScore is -318.861908, result is sil sp ,num 2 
+totalScore is -330.499573, lmScore is -11.637651, amScore is -318.861908, result is sil sp ,num 2 
+totalScore is -330.346100, lmScore is -11.484183, amScore is -318.861908, result is sil sp ,num 2 
+totalScore is -178.636261, lmScore is -10.909929, amScore is -167.726334, result is sil sp sil ,num 3 
+totalScore is -187.064865, lmScore is -10.909929, amScore is -176.154938, result is sil sp sil ,num 3 
+totalScore is -199.270096, lmScore is -12.631194, amScore is -186.638901, result is sil sp 是 ,num 3 
+totalScore is -201.193161, lmScore is -11.864360, amScore is -189.328796, result is sil sp 石头 ,num 3 
+totalScore is -235.079514, lmScore is -17.637651, amScore is -217.441864, result is sil sp ,num 2 
+totalScore is -165.604965, lmScore is -13.086735, amScore is -152.518234, result is sil sp 锤子 ,num 3 
+totalScore is -166.049301, lmScore is -11.949480, amScore is -154.099823, result is sil sp 出 ,num 3 
+totalScore is -176.910934, lmScore is -17.864361, amScore is -159.046570, result is sil sp 剪刀 ,num 3 
+totalScore is -214.204285, lmScore is -11.963236, amScore is -202.241043, result is sil sp 你 ,num 3 
+totalScore is -237.739105, lmScore is -18.033218, amScore is -219.705887, result is sil sp  ,num 3 
+totalScore is -256.768738, lmScore is -12.681551, amScore is -244.087173, result is sil sp 了 ,num 3 
+totalScore is -186.685883, lmScore is -12.687618, amScore is -173.998260, result is sil sp 的 ,num 3 
+totalScore is -168.450180, lmScore is -19.058899, amScore is -149.391281, result is sil sp 平 ,num 3 
+totalScore is -198.671661, lmScore is -13.087712, amScore is -185.583954, result is sil sp 布 ,num 3 
+totalScore is -222.446014, lmScore is -9.654119, amScore is -212.791901, result is sp 布 ,num 2 
+totalScore is -176.570740, lmScore is -15.625305, amScore is -160.945435, result is sp 平 ,num 2 
+totalScore is -206.824493, lmScore is -9.254025, amScore is -197.570465, result is sp 的 ,num 2 
+totalScore is -314.694733, lmScore is -9.247957, amScore is -305.446777, result is sp 了 ,num 2 
+totalScore is -313.680298, lmScore is -14.599625, amScore is -299.080688, result is sp  ,num 2 
+totalScore is -174.245209, lmScore is -8.529642, amScore is -165.715561, result is sp 你 ,num 2 
+totalScore is -190.251083, lmScore is -14.430766, amScore is -175.820312, result is sp 剪刀 ,num 2 
+totalScore is -206.330551, lmScore is -8.515886, amScore is -197.814667, result is sp 出 ,num 2 
+totalScore is -213.439102, lmScore is -9.653141, amScore is -203.785965, result is sp 锤子 ,num 2 
+totalScore is -221.299042, lmScore is -14.204058, amScore is -207.094986, result is sp ,num 1 
+totalScore is -254.849319, lmScore is -8.430766, amScore is -246.418549, result is sp 石头 ,num 2 
+totalScore is -259.130310, lmScore is -9.197600, amScore is -249.932724, result is sp 是 ,num 2 
+totalScore is -235.443436, lmScore is -7.476335, amScore is -227.967102, result is sp sil ,num 2 
+totalScore is -385.145996, lmScore is -9.197600, amScore is -375.948395, result is sp 是 ,num 2 
+totalScore is -403.874542, lmScore is -8.430766, amScore is -395.443787, result is sp 石头 ,num 2 
+totalScore is -312.458221, lmScore is -14.204058, amScore is -298.254150, result is sp ,num 1 
+totalScore is -219.481079, lmScore is -9.653141, amScore is -209.827942, result is sp 锤子 ,num 2 
+totalScore is -228.277069, lmScore is -8.515886, amScore is -219.761185, result is sp 出 ,num 2 
+totalScore is -267.090668, lmScore is -14.430766, amScore is -252.659912, result is sp 剪刀 ,num 2 
+totalScore is -295.913300, lmScore is -8.529642, amScore is -287.383667, result is sp 你 ,num 2 
+totalScore is -376.611267, lmScore is -14.599625, amScore is -362.011658, result is sp  ,num 2 
+totalScore is -487.957092, lmScore is -9.247957, amScore is -478.709137, result is sp 了 ,num 2 
+totalScore is -284.123352, lmScore is -9.254025, amScore is -274.869324, result is sp 的 ,num 2 
+totalScore is -189.076370, lmScore is -15.625305, amScore is -173.451065, result is sp 平 ,num 2 
+totalScore is -265.332886, lmScore is -9.654119, amScore is -255.678757, result is sp 布 ,num 2 
+totalScore is -230.559601, lmScore is -13.087712, amScore is -217.471893, result is sil sp 布 ,num 3 
+totalScore is -184.874908, lmScore is -19.058899, amScore is -165.816010, result is sil sp 平 ,num 3 
+totalScore is -214.969894, lmScore is -12.687618, amScore is -202.282272, result is sil sp 的 ,num 3 
+totalScore is -322.486572, lmScore is -12.681551, amScore is -309.805023, result is sil sp 了 ,num 3 
+totalScore is -321.518372, lmScore is -18.033218, amScore is -303.485168, result is sil sp  ,num 3 
+totalScore is -182.241119, lmScore is -11.963236, amScore is -170.277878, result is sil sp 你 ,num 3 
+totalScore is -198.503860, lmScore is -17.864361, amScore is -180.639496, result is sil sp 剪刀 ,num 3 
+totalScore is -214.603409, lmScore is -11.949480, amScore is -202.653931, result is sil sp 出 ,num 3 
+totalScore is -221.720078, lmScore is -13.086735, amScore is -208.633347, result is sil sp 锤子 ,num 3 
+totalScore is -229.195023, lmScore is -17.637651, amScore is -211.557373, result is sil sp ,num 2 
+totalScore is -262.905243, lmScore is -11.864360, amScore is -251.040894, result is sil sp 石头 ,num 3 
+totalScore is -267.200409, lmScore is -12.631194, amScore is -254.569229, result is sil sp 是 ,num 3 
+totalScore is -243.582153, lmScore is -10.909929, amScore is -232.672226, result is sil sp sil ,num 3 
+totalScore is -187.739548, lmScore is -10.909929, amScore is -176.829620, result is sil sp sil ,num 3 
+totalScore is -199.265915, lmScore is -12.631194, amScore is -186.634720, result is sil sp 是 ,num 3 
+totalScore is -201.188965, lmScore is -11.864360, amScore is -189.324600, result is sil sp 石头 ,num 3 
+totalScore is -235.075302, lmScore is -17.637651, amScore is -217.437653, result is sil sp ,num 2 
+totalScore is -165.600769, lmScore is -13.086735, amScore is -152.514038, result is sil sp 锤子 ,num 3 
+totalScore is -166.045120, lmScore is -11.949480, amScore is -154.095642, result is sil sp 出 ,num 3 
+totalScore is -176.906738, lmScore is -17.864361, amScore is -159.042374, result is sil sp 剪刀 ,num 3 
+totalScore is -214.200089, lmScore is -11.963236, amScore is -202.236847, result is sil sp 你 ,num 3 
+totalScore is -237.734924, lmScore is -18.033218, amScore is -219.701706, result is sil sp  ,num 3 
+totalScore is -256.764557, lmScore is -12.681551, amScore is -244.082993, result is sil sp 了 ,num 3 
+totalScore is -186.681702, lmScore is -12.687618, amScore is -173.994080, result is sil sp 的 ,num 3 
+totalScore is -168.445984, lmScore is -19.058899, amScore is -149.387085, result is sil sp 平 ,num 3 
+totalScore is -198.667480, lmScore is -13.087712, amScore is -185.579773, result is sil sp 布 ,num 3 
+totalScore is -223.045898, lmScore is -9.654119, amScore is -213.391785, result is sp 布 ,num 2 
+totalScore is -177.361191, lmScore is -15.625305, amScore is -161.735886, result is sp 平 ,num 2 
+totalScore is -207.456207, lmScore is -9.254025, amScore is -198.202179, result is sp 的 ,num 2 
+totalScore is -314.972839, lmScore is -9.247957, amScore is -305.724884, result is sp 了 ,num 2 
+totalScore is -314.004639, lmScore is -14.599625, amScore is -299.405029, result is sp  ,num 2 
+totalScore is -229.910400, lmScore is -14.599625, amScore is -215.310776, result is sp  ,num 2 
+totalScore is -248.984177, lmScore is -9.247957, amScore is -239.736221, result is sp 了 ,num 2 
+totalScore is -178.551788, lmScore is -9.254025, amScore is -169.297760, result is sp 的 ,num 2 
+totalScore is -160.157959, lmScore is -15.625305, amScore is -144.532654, result is sp 平 ,num 2 
+totalScore is -190.568542, lmScore is -9.654119, amScore is -180.914429, result is sp 布 ,num 2 
+totalScore is -331.962646, lmScore is -13.087711, amScore is -318.874939, result is sil sp 布 ,num 3 
+totalScore is -331.933838, lmScore is -13.058899, amScore is -318.874939, result is sil sp 平 ,num 3 
+totalScore is -331.562561, lmScore is -12.687618, amScore is -318.874939, result is sil sp 的 ,num 3 
+totalScore is -331.556488, lmScore is -12.681554, amScore is -318.874939, result is sil sp 了 ,num 3 
+totalScore is -330.908142, lmScore is -12.033218, amScore is -318.874939, result is sil sp  ,num 3 
+totalScore is -330.838165, lmScore is -11.963236, amScore is -318.874939, result is sil sp 你 ,num 3 
+totalScore is -330.739288, lmScore is -11.864360, amScore is -318.874939, result is sil sp 剪刀 ,num 3 
+totalScore is -330.546814, lmScore is -11.671862, amScore is -318.874939, result is sil sp ,num 2 
+totalScore is -330.512604, lmScore is -11.637651, amScore is -318.874939, result is sil sp ,num 2 
+totalScore is -330.359131, lmScore is -11.484183, amScore is -318.874939, result is sil sp ,num 2 
+totalScore is -177.975983, lmScore is -10.909929, amScore is -167.066055, result is sil sp sil ,num 3 
+totalScore is -187.121872, lmScore is -10.909929, amScore is -176.211945, result is sil sp sil ,num 3 
+totalScore is -198.723587, lmScore is -12.631194, amScore is -186.092392, result is sil sp 是 ,num 3 
+totalScore is -200.660507, lmScore is -11.864360, amScore is -188.796143, result is sil sp 石头 ,num 3 
+totalScore is -234.703476, lmScore is -17.637651, amScore is -217.065826, result is sil sp ,num 2 
+totalScore is -164.848724, lmScore is -13.086735, amScore is -151.761993, result is sil sp 锤子 ,num 3 
+totalScore is -165.300919, lmScore is -11.949480, amScore is -153.351440, result is sil sp 出 ,num 3 
+totalScore is -176.182388, lmScore is -17.864361, amScore is -158.318024, result is sil sp 剪刀 ,num 3 
+totalScore is -213.727097, lmScore is -11.963236, amScore is -201.763855, result is sil sp 你 ,num 3 
+totalScore is -237.424103, lmScore is -18.033218, amScore is -219.390884, result is sil sp  ,num 3 
+totalScore is -256.497894, lmScore is -12.681551, amScore is -243.816330, result is sil sp 了 ,num 3 
+totalScore is -186.065491, lmScore is -12.687618, amScore is -173.377869, result is sil sp 的 ,num 3 
+totalScore is -167.671631, lmScore is -19.058899, amScore is -148.612732, result is sil sp 平 ,num 3 
+totalScore is -198.082245, lmScore is -13.087712, amScore is -184.994537, result is sil sp 布 ,num 3 
+totalScore is -222.692017, lmScore is -9.654119, amScore is -213.037903, result is sp 布 ,num 2 
+totalScore is -176.676529, lmScore is -15.625305, amScore is -161.051224, result is sp 平 ,num 2 
+totalScore is -207.035309, lmScore is -9.254025, amScore is -197.781281, result is sp 的 ,num 2 
+totalScore is -315.072021, lmScore is -9.247957, amScore is -305.824066, result is sp 了 ,num 2 
+totalScore is -314.103333, lmScore is -14.599625, amScore is -299.503723, result is sp  ,num 2 
+totalScore is -174.064453, lmScore is -8.529642, amScore is -165.534805, result is sp 你 ,num 2 
+totalScore is -190.380020, lmScore is -14.430766, amScore is -175.949249, result is sp 剪刀 ,num 2 
+totalScore is -206.585281, lmScore is -8.515886, amScore is -198.069397, result is sp 出 ,num 2 
+totalScore is -213.732620, lmScore is -9.653141, amScore is -204.079483, result is sp 锤子 ,num 2 
+totalScore is -221.269348, lmScore is -14.204058, amScore is -207.065292, result is sp ,num 1 
+totalScore is -255.180557, lmScore is -8.430766, amScore is -246.749786, result is sp 石头 ,num 2 
+totalScore is -259.493317, lmScore is -9.197600, amScore is -250.295731, result is sp 是 ,num 2 
+totalScore is -235.692291, lmScore is -7.476335, amScore is -228.215958, result is sp sil ,num 2 
+totalScore is -178.983200, lmScore is -7.476335, amScore is -171.506866, result is sp sil ,num 2 
+totalScore is -190.653488, lmScore is -9.197600, amScore is -181.455887, result is sp 是 ,num 2 
+totalScore is -192.604614, lmScore is -8.430766, amScore is -184.173843, result is sp 石头 ,num 2 
+totalScore is -226.807510, lmScore is -14.204058, amScore is -212.603455, result is sp ,num 1 
+totalScore is -156.567764, lmScore is -9.653141, amScore is -146.914627, result is sp 锤子 ,num 2 
+totalScore is -157.028030, lmScore is -8.515886, amScore is -148.512146, result is sp 出 ,num 2 
+totalScore is -167.929642, lmScore is -14.430766, amScore is -153.498871, result is sp 剪刀 ,num 2 
+totalScore is -205.731171, lmScore is -8.529642, amScore is -197.201523, result is sp 你 ,num 2 
+totalScore is -229.586029, lmScore is -14.599625, amScore is -214.986404, result is sp  ,num 2 
+totalScore is -248.706070, lmScore is -9.247957, amScore is -239.458115, result is sp 了 ,num 2 
+totalScore is -177.920074, lmScore is -9.254025, amScore is -168.666046, result is sp 的 ,num 2 
+totalScore is -159.367508, lmScore is -15.625305, amScore is -143.742203, result is sp 平 ,num 2 
+totalScore is -189.968658, lmScore is -9.654119, amScore is -180.314545, result is sp 布 ,num 2 
+totalScore is -331.966827, lmScore is -13.087711, amScore is -318.879120, result is sil sp 布 ,num 3 
+totalScore is -331.938019, lmScore is -13.058899, amScore is -318.879120, result is sil sp 平 ,num 3 
+totalScore is -331.566742, lmScore is -12.687618, amScore is -318.879120, result is sil sp 的 ,num 3 
+totalScore is -331.560669, lmScore is -12.681554, amScore is -318.879120, result is sil sp 了 ,num 3 
+totalScore is -330.912354, lmScore is -12.033218, amScore is -318.879120, result is sil sp  ,num 3 
+totalScore is -330.842346, lmScore is -11.963236, amScore is -318.879120, result is sil sp 你 ,num 3 
+totalScore is -330.743469, lmScore is -11.864360, amScore is -318.879120, result is sil sp 剪刀 ,num 3 
+totalScore is -330.550995, lmScore is -11.671862, amScore is -318.879120, result is sil sp ,num 2 
+totalScore is -330.516785, lmScore is -11.637651, amScore is -318.879120, result is sil sp ,num 2 
+totalScore is -330.363312, lmScore is -11.484183, amScore is -318.879120, result is sil sp ,num 2 
+totalScore is -177.301300, lmScore is -10.909929, amScore is -166.391373, result is sil sp sil ,num 3 
+totalScore is -322.275299, lmScore is -7.476304, amScore is -314.798981, result is sil sp ,num 2 
+totalScore is -324.453094, lmScore is -9.654118, amScore is -314.798981, result is sp 布 ,num 2 
+totalScore is -324.424286, lmScore is -9.625305, amScore is -314.798981, result is sp 平 ,num 2 
+totalScore is -5000.000000, lmScore is -5000.000000, amScore is -5000.000000, result is sp 平 ,num 2 
+totalScore is -5173.200684, lmScore is -9.254025, amScore is -5163.946777, result is sp 的 ,num 2 
+totalScore is -324.053009, lmScore is -9.254025, amScore is -314.798981, result is sp 的 ,num 2 
+totalScore is -5000.000000, lmScore is -5000.000000, amScore is -5000.000000, result is sp 的 ,num 2 
+totalScore is -5244.336426, lmScore is -9.247957, amScore is -5235.088379, result is sp 了 ,num 2 
+totalScore is -324.046936, lmScore is -9.247960, amScore is -314.798981, result is sp 了 ,num 2 
+totalScore is -5000.000000, lmScore is -5000.000000, amScore is -5000.000000, result is sp 了 ,num 2 
+totalScore is -5225.175293, lmScore is -14.599625, amScore is -5210.575684, result is sp  ,num 2 
+totalScore is -323.398621, lmScore is -8.599625, amScore is -314.798981, result is sp  ,num 2 
+totalScore is -5000.000000, lmScore is -5000.000000, amScore is -5000.000000, result is sp  ,num 2 
+totalScore is -5201.162109, lmScore is -8.529642, amScore is -5192.632324, result is sp 你 ,num 2 
+totalScore is -323.328613, lmScore is -8.529642, amScore is -314.798981, result is sp 你 ,num 2 
+totalScore is -5000.000000, lmScore is -5000.000000, amScore is -5000.000000, result is sp 你 ,num 2 
+totalScore is -5163.106934, lmScore is -14.430766, amScore is -5148.676270, result is sp 剪刀 ,num 2 
+totalScore is -323.229736, lmScore is -8.430766, amScore is -314.798981, result is sp 剪刀 ,num 2 
+totalScore is -5000.000000, lmScore is -5000.000000, amScore is -5000.000000, result is sp 剪刀 ,num 2 
+totalScore is -5151.717285, lmScore is -9.653141, amScore is -5142.063965, result is sp 锤子 ,num 2 
+totalScore is -5152.184570, lmScore is -8.515886, amScore is -5143.668457, result is sp 出 ,num 2 
+totalScore is -323.037262, lmScore is -8.238268, amScore is -314.798981, result is sp ,num 1 
+totalScore is -5000.000000, lmScore is -5000.000000, amScore is -5000.000000, result is sp ,num 1 
+totalScore is -5222.338867, lmScore is -14.204058, amScore is -5208.134766, result is sp ,num 1 
+totalScore is -323.003052, lmScore is -8.204058, amScore is -314.798981, result is sp ,num 1 
+totalScore is -5000.000000, lmScore is -5000.000000, amScore is -5000.000000, result is sp ,num 1 
+totalScore is -5186.011719, lmScore is -9.197600, amScore is -5176.813965, result is sp 是 ,num 2 
+totalScore is -5187.976562, lmScore is -8.430766, amScore is -5179.545898, result is sp 石头 ,num 2 
+totalScore is -322.849579, lmScore is -8.050590, amScore is -314.798981, result is sp ,num 1 
+totalScore is -5000.000000, lmScore is -5000.000000, amScore is -5000.000000, result is sp ,num 1 
+totalScore is -169.102615, lmScore is -7.476335, amScore is -161.626282, result is sp sil ,num 2 
+totalScore is -785000.000000, lmScore is -5000.000000, amScore is -780000.000000, result is sp ,num 1 
+best totalScore is -156.567764, lmScore is -9.653141, amScore is -146.914627, result is sp 锤子 ,num 2 

@@ -1,0 +1,500 @@
+totalScore is -20.000000, lmScore is -20.000000, amScore is -215.174133, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -3.449382, lmScore is -2.560828, amScore is -296.184784, result is sp 布 石头 ,num 3 wordListId is 353 
+totalScore is -3.448106, lmScore is -2.646924, amScore is -267.060577, result is sp 布 出 ,num 3 wordListId is 351 
+totalScore is -3.573328, lmScore is -2.659703, amScore is -304.541718, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.494919, lmScore is -2.659703, amScore is -278.405365, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.470140, lmScore is -2.646924, amScore is -274.405487, result is sp 布 出 ,num 3 wordListId is 73 
+totalScore is -3.521923, lmScore is -2.560828, amScore is -320.365021, result is sp 布 石头 ,num 3 wordListId is 76 
+totalScore is -3.953551, lmScore is -2.560828, amScore is -464.240967, result is sp 布 石头 ,num 3 wordListId is 334 
+totalScore is -3.639408, lmScore is -2.646924, amScore is -330.827850, result is sp 布 出 ,num 3 wordListId is 332 
+totalScore is -3.711040, lmScore is -2.659703, amScore is -350.445770, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.493683, lmScore is -2.659703, amScore is -277.993164, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.468878, lmScore is -2.646924, amScore is -273.984619, result is sp 布 出  ,num 4 wordListId is 186 
+totalScore is -3.520386, lmScore is -2.560828, amScore is -319.852844, result is sp 布 石头 ,num 3 wordListId is 270 
+totalScore is -3.953809, lmScore is -2.560828, amScore is -464.327026, result is sp 布 石头 ,num 3 wordListId is 134 
+totalScore is -3.639968, lmScore is -2.646924, amScore is -331.014740, result is sp 布 出 ,num 3 wordListId is 124 
+totalScore is -3.711420, lmScore is -2.659703, amScore is -350.572113, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.959212, lmScore is -2.560828, amScore is -466.128021, result is sp 布 石头 ,num 3 wordListId is 27 
+totalScore is -3.644850, lmScore is -2.646924, amScore is -332.641907, result is sp 布 出 ,num 3 wordListId is 22 
+totalScore is -3.716210, lmScore is -2.659703, amScore is -352.168915, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.959470, lmScore is -2.560828, amScore is -466.214081, result is sp 布 石头 ,num 3 wordListId is 262 
+totalScore is -3.645410, lmScore is -2.646924, amScore is -332.828796, result is sp 布 出 ,num 3 wordListId is 248 
+totalScore is -3.716589, lmScore is -2.659703, amScore is -352.295288, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.961006, lmScore is -2.560828, amScore is -466.726257, result is sp 布 石头 ,num 3 wordListId is 385 
+totalScore is -3.646673, lmScore is -2.646924, amScore is -333.249664, result is sp 布 出 ,num 3 wordListId is 379 
+totalScore is -3.717826, lmScore is -2.659703, amScore is -352.707550, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.492452, lmScore is -2.659703, amScore is -277.582825, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.467601, lmScore is -2.646924, amScore is -273.559021, result is sp 布 出 ,num 3 wordListId is 24 
+totalScore is -3.518841, lmScore is -2.560828, amScore is -319.337677, result is sp 布 石头 ,num 3 wordListId is 26 
+totalScore is -3.954064, lmScore is -2.560828, amScore is -464.411987, result is sp 布 石头 ,num 3 wordListId is 328 
+totalScore is -3.640524, lmScore is -2.646924, amScore is -331.199951, result is sp 布 出 ,num 3 wordListId is 326 
+totalScore is -3.711823, lmScore is -2.659703, amScore is -350.706635, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.958246, lmScore is -2.560828, amScore is -465.806213, result is sp 布 石头 ,num 3 wordListId is 370 
+totalScore is -3.643551, lmScore is -2.646924, amScore is -332.209015, result is sp 布 出 ,num 3 wordListId is 368 
+totalScore is -3.715958, lmScore is -2.659703, amScore is -352.084900, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.958504, lmScore is -2.560828, amScore is -465.892273, result is sp 布 石头 ,num 3 wordListId is 285 
+totalScore is -3.644112, lmScore is -2.646924, amScore is -332.395874, result is sp 布 出 ,num 3 wordListId is 209 
+totalScore is -3.716337, lmScore is -2.659703, amScore is -352.211243, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.960041, lmScore is -2.560828, amScore is -466.404449, result is sp 布 石头 ,num 3 wordListId is 103 
+totalScore is -3.645374, lmScore is -2.646924, amScore is -332.816742, result is sp 布 出 ,num 3 wordListId is 275 
+totalScore is -3.717574, lmScore is -2.659703, amScore is -352.623505, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.490855, lmScore is -2.659703, amScore is -277.050507, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.465787, lmScore is -2.646924, amScore is -272.954376, result is sp 布 出 ,num 3 wordListId is 366 
+totalScore is -3.517052, lmScore is -2.560828, amScore is -318.741364, result is sp 布 石头 ,num 3 wordListId is 388 
+totalScore is -3.456578, lmScore is -2.560828, amScore is -298.583344, result is sp 布 石头 ,num 3 wordListId is 245 
+totalScore is -3.454805, lmScore is -2.646924, amScore is -269.293701, result is ,num 0 wordListId is 282 
+totalScore is -3.579720, lmScore is -2.659703, amScore is -306.672089, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.496857, lmScore is -2.659703, amScore is -279.051331, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.471936, lmScore is -2.646924, amScore is -275.004089, result is sp 布 出 ,num 3 wordListId is 129 
+totalScore is -3.523995, lmScore is -2.560828, amScore is -321.055695, result is sp 布 石头 ,num 3 wordListId is 299 
+totalScore is -3.955461, lmScore is -2.560828, amScore is -464.877808, result is sp 布 石头 ,num 3 wordListId is 127 
+totalScore is -3.640397, lmScore is -2.646924, amScore is -331.157654, result is sp 布 出 ,num 3 wordListId is 401 
+totalScore is -3.714091, lmScore is -2.659703, amScore is -351.462524, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.495620, lmScore is -2.659703, amScore is -278.639099, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.470674, lmScore is -2.646924, amScore is -274.583221, result is sp 布 出 ,num 3 wordListId is 197 
+totalScore is -3.522458, lmScore is -2.560828, amScore is -320.543518, result is sp 布 石头 ,num 3 wordListId is 199 
+totalScore is -3.955719, lmScore is -2.560828, amScore is -464.963867, result is sp 布 石头 ,num 3 wordListId is 18 
+totalScore is -3.640958, lmScore is -2.646924, amScore is -331.344513, result is sp 布 出 ,num 3 wordListId is 16 
+totalScore is -3.714470, lmScore is -2.659703, amScore is -351.588867, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.957256, lmScore is -2.560828, amScore is -465.476044, result is sp 布 石头 ,num 3 wordListId is 281 
+totalScore is -3.642220, lmScore is -2.646924, amScore is -331.765381, result is sp 布 出 ,num 3 wordListId is 279 
+totalScore is -3.715707, lmScore is -2.659703, amScore is -352.001099, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.495242, lmScore is -2.659703, amScore is -278.512756, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.470113, lmScore is -2.646924, amScore is -274.396362, result is sp 布 出 ,num 3 wordListId is 306 
+totalScore is -3.522200, lmScore is -2.560828, amScore is -320.457458, result is sp 布 石头 ,num 3 wordListId is 311 
+totalScore is -3.951569, lmScore is -2.560828, amScore is -463.580536, result is ,num 0 wordListId is 50 
+totalScore is -3.636746, lmScore is -2.646924, amScore is -329.940582, result is sp 布 sp 锤子 ,num 4 wordListId is 48 
+totalScore is -3.710538, lmScore is -2.659703, amScore is -350.278168, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.436260, lmScore is -2.659703, amScore is -258.852325, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.581052, lmScore is -2.646924, amScore is -311.375977, result is sp 布 sp 锤子 ,num 4 wordListId is 48 
+totalScore is -3.652112, lmScore is -2.560828, amScore is -363.761566, result is ,num 0 wordListId is 50 
+totalScore is -3.349692, lmScore is -2.560828, amScore is -262.954773, result is sp 布 石头 ,num 3 wordListId is 311 
+totalScore is -3.316265, lmScore is -2.646924, amScore is -223.113693, result is sp 布 出 ,num 3 wordListId is 306 
+totalScore is -3.554175, lmScore is -2.659703, amScore is -298.157349, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.441429, lmScore is -2.659703, amScore is -260.575256, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.586526, lmScore is -2.646924, amScore is -313.200775, result is sp 布 出 ,num 3 wordListId is 279 
+totalScore is -3.657799, lmScore is -2.560828, amScore is -365.657074, result is sp 布 石头 ,num 3 wordListId is 281 
+totalScore is -3.678467, lmScore is -2.646924, amScore is -343.847626, result is sp 布 sp 锤子 ,num 4 wordListId is 48 
+totalScore is -3.908868, lmScore is -2.659703, amScore is -416.388245, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.440192, lmScore is -2.659703, amScore is -260.163025, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.585264, lmScore is -2.646924, amScore is -312.779907, result is sp 布 出 ,num 3 wordListId is 16 
+totalScore is -3.656262, lmScore is -2.560828, amScore is -365.144897, result is sp 布 石头 ,num 3 wordListId is 18 
+totalScore is -3.349950, lmScore is -2.560828, amScore is -263.040833, result is sp 布 石头 ,num 3 wordListId is 199 
+totalScore is -3.316826, lmScore is -2.646924, amScore is -223.300568, result is sp 布 出 ,num 3 wordListId is 197 
+totalScore is -3.554554, lmScore is -2.659703, amScore is -298.283691, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.439813, lmScore is -2.659703, amScore is -260.036682, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.584703, lmScore is -2.646924, amScore is -312.593048, result is sp 布 出 ,num 3 wordListId is 401 
+totalScore is -3.656004, lmScore is -2.560828, amScore is -365.058838, result is sp 布 石头 ,num 3 wordListId is 127 
+totalScore is -3.351487, lmScore is -2.560828, amScore is -263.553009, result is sp 布 石头 ,num 3 wordListId is 299 
+totalScore is -3.318088, lmScore is -2.646924, amScore is -223.721436, result is sp 布 出 ,num 3 wordListId is 129 
+totalScore is -3.555791, lmScore is -2.659703, amScore is -298.695923, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.532784, lmScore is -2.729686, amScore is -267.699036, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -3.542411, lmScore is -2.659704, amScore is -294.235840, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.469334, lmScore is -2.560828, amScore is -302.835449, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.271934, lmScore is -2.369306, amScore is -300.876190, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.517649, lmScore is -2.334119, amScore is -394.510010, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.145050, lmScore is -2.180651, amScore is -321.466370, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -2.781184, lmScore is -1.607373, amScore is -391.270508, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -2.784653, lmScore is -1.607342, amScore is -392.437103, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -3.344544, lmScore is -2.560828, amScore is -261.238739, result is sp 布 石头 ,num 3 wordListId is 388 
+totalScore is -3.311939, lmScore is -2.646924, amScore is -221.671722, result is sp 布 出 ,num 3 wordListId is 366 
+totalScore is -3.549788, lmScore is -2.659703, amScore is -296.695038, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.443296, lmScore is -2.659703, amScore is -261.197662, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.589680, lmScore is -2.646924, amScore is -314.252106, result is sp 布 出 ,num 3 wordListId is 275 
+totalScore is -3.660584, lmScore is -2.560828, amScore is -366.585480, result is sp 布 石头 ,num 3 wordListId is 103 
+totalScore is -3.678657, lmScore is -2.646924, amScore is -343.911011, result is sp 布 出 ,num 3 wordListId is 401 
+totalScore is -3.909625, lmScore is -2.659703, amScore is -416.640564, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.442060, lmScore is -2.659703, amScore is -260.785400, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.588418, lmScore is -2.646924, amScore is -313.831268, result is sp 布 出 ,num 3 wordListId is 209 
+totalScore is -3.659048, lmScore is -2.560828, amScore is -366.073303, result is sp 布 石头 ,num 3 wordListId is 285 
+totalScore is -3.679218, lmScore is -2.646924, amScore is -344.097900, result is sp 布 出 ,num 3 wordListId is 16 
+totalScore is -3.910004, lmScore is -2.659703, amScore is -416.766907, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.680480, lmScore is -2.646924, amScore is -344.518738, result is sp 布 出 ,num 3 wordListId is 279 
+totalScore is -3.911241, lmScore is -2.659703, amScore is -417.179169, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.441680, lmScore is -2.659703, amScore is -260.659058, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.587857, lmScore is -2.646924, amScore is -313.644409, result is sp 布 出 ,num 3 wordListId is 368 
+totalScore is -3.658789, lmScore is -2.560828, amScore is -365.987244, result is sp 布 石头 ,num 3 wordListId is 370 
+totalScore is -3.680711, lmScore is -2.646924, amScore is -344.595673, result is sp 布 出 ,num 3 wordListId is 368 
+totalScore is -3.912010, lmScore is -2.659703, amScore is -417.435486, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.681272, lmScore is -2.646924, amScore is -344.782562, result is sp 布 出 ,num 3 wordListId is 209 
+totalScore is -3.912389, lmScore is -2.659703, amScore is -417.561829, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.682534, lmScore is -2.646924, amScore is -345.203400, result is sp 布 出 ,num 3 wordListId is 275 
+totalScore is -3.913625, lmScore is -2.659703, amScore is -417.974060, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.437546, lmScore is -2.659703, amScore is -259.280792, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.584830, lmScore is -2.646924, amScore is -312.635345, result is sp 布 出 ,num 3 wordListId is 326 
+totalScore is -3.654607, lmScore is -2.560828, amScore is -364.593018, result is sp 布 石头 ,num 3 wordListId is 328 
+totalScore is -3.346333, lmScore is -2.560828, amScore is -261.835022, result is sp 布 石头 ,num 3 wordListId is 26 
+totalScore is -3.313753, lmScore is -2.646924, amScore is -222.276367, result is sp 布 出 ,num 3 wordListId is 24 
+totalScore is -3.551385, lmScore is -2.659703, amScore is -297.227386, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.443548, lmScore is -2.659703, amScore is -261.281677, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.590979, lmScore is -2.646924, amScore is -314.685028, result is sp 布 出 ,num 3 wordListId is 379 
+totalScore is -3.661550, lmScore is -2.560828, amScore is -366.907288, result is sp 布 石头 ,num 3 wordListId is 385 
+totalScore is -3.677557, lmScore is -2.646924, amScore is -343.544281, result is sp 布 出 ,num 3 wordListId is 401 
+totalScore is -3.910142, lmScore is -2.659703, amScore is -416.813080, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.442312, lmScore is -2.659703, amScore is -260.869446, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.589716, lmScore is -2.646924, amScore is -314.264160, result is sp 布 出 ,num 3 wordListId is 248 
+totalScore is -3.660013, lmScore is -2.560828, amScore is -366.395111, result is sp 布 石头 ,num 3 wordListId is 262 
+totalScore is -3.678118, lmScore is -2.646924, amScore is -343.731171, result is sp 布 出 ,num 3 wordListId is 16 
+totalScore is -3.910522, lmScore is -2.659703, amScore is -416.939453, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.679380, lmScore is -2.646924, amScore is -344.152039, result is sp 布 出 ,num 3 wordListId is 279 
+totalScore is -3.911758, lmScore is -2.659703, amScore is -417.351685, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.441932, lmScore is -2.659703, amScore is -260.743073, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.589156, lmScore is -2.646924, amScore is -314.077301, result is sp 布 出 ,num 3 wordListId is 22 
+totalScore is -3.659755, lmScore is -2.560828, amScore is -366.309052, result is sp 布 石头 ,num 3 wordListId is 27 
+totalScore is -3.673906, lmScore is -2.646924, amScore is -342.327209, result is sp 布 sp 锤子 ,num 4 wordListId is 48 
+totalScore is -3.906590, lmScore is -2.659703, amScore is -415.628754, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.437142, lmScore is -2.659703, amScore is -259.146271, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.584275, lmScore is -2.646924, amScore is -312.450134, result is sp 布 出 ,num 3 wordListId is 124 
+totalScore is -3.654352, lmScore is -2.560828, amScore is -364.508026, result is sp 布 石头 ,num 3 wordListId is 134 
+totalScore is -3.347878, lmScore is -2.560828, amScore is -262.350189, result is sp 布 石头 ,num 3 wordListId is 270 
+totalScore is -3.315030, lmScore is -2.646924, amScore is -222.701965, result is sp 布 出  ,num 4 wordListId is 186 
+totalScore is -3.552616, lmScore is -2.659703, amScore is -297.637726, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.436763, lmScore is -2.659703, amScore is -259.019928, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.583714, lmScore is -2.646924, amScore is -312.263245, result is sp 布 出 ,num 3 wordListId is 332 
+totalScore is -3.654094, lmScore is -2.560828, amScore is -364.421967, result is sp 布 石头 ,num 3 wordListId is 334 
+totalScore is -3.349415, lmScore is -2.560828, amScore is -262.862335, result is sp 布 石头 ,num 3 wordListId is 76 
+totalScore is -3.316293, lmScore is -2.646924, amScore is -223.122818, result is sp 布 出 ,num 3 wordListId is 73 
+totalScore is -3.553853, lmScore is -2.659703, amScore is -298.049957, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.527016, lmScore is -2.729686, amScore is -265.776550, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -3.536020, lmScore is -2.659704, amScore is -292.105469, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.462814, lmScore is -2.560828, amScore is -300.662140, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.265235, lmScore is -2.369306, amScore is -298.643097, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.510334, lmScore is -2.334119, amScore is -392.071716, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.137855, lmScore is -2.180651, amScore is -319.067841, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -2.774613, lmScore is -1.607373, amScore is -389.080170, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -2.778082, lmScore is -1.607342, amScore is -390.246765, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -3.340926, lmScore is -2.560828, amScore is -260.032776, result is sp 布 石头 ,num 3 wordListId is 190 
+totalScore is -3.308868, lmScore is -2.646924, amScore is -220.647873, result is sp 布 出 ,num 3 wordListId is 165 
+totalScore is -3.546591, lmScore is -2.659703, amScore is -295.629333, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.441862, lmScore is -2.659703, amScore is -260.719727, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.590482, lmScore is -2.646924, amScore is -314.519348, result is sp 布 出 ,num 3 wordListId is 316 
+totalScore is -3.660443, lmScore is -2.560828, amScore is -366.538422, result is sp 布 石头 ,num 3 wordListId is 244 
+totalScore is -3.675467, lmScore is -2.646924, amScore is -342.847778, result is sp 布 出 ,num 3 wordListId is 332 
+totalScore is -3.907610, lmScore is -2.659703, amScore is -415.968872, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.440626, lmScore is -2.659703, amScore is -260.307465, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.589220, lmScore is -2.646924, amScore is -314.098480, result is sp 布 出 ,num 3 wordListId is 168 
+totalScore is -3.658906, lmScore is -2.560828, amScore is -366.026276, result is sp 布 石头 ,num 3 wordListId is 175 
+totalScore is -3.437267, lmScore is -2.659703, amScore is -259.187958, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.586311, lmScore is -2.646924, amScore is -313.129059, result is sp 布 出 ,num 3 wordListId is 163 
+totalScore is -3.656024, lmScore is -2.560828, amScore is -365.065582, result is sp 布 石头 ,num 3 wordListId is 313 
+totalScore is -3.352993, lmScore is -2.560828, amScore is -264.054932, result is sp 布 石头 ,num 3 wordListId is 141 
+totalScore is -3.319920, lmScore is -2.646924, amScore is -224.332108, result is sp 布 出 ,num 3 wordListId is 39 
+totalScore is -3.557047, lmScore is -2.659703, amScore is -299.114624, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.524941, lmScore is -2.729686, amScore is -265.084747, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -3.533522, lmScore is -2.659704, amScore is -291.272888, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.460154, lmScore is -2.560828, amScore is -299.775482, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.262718, lmScore is -2.369306, amScore is -297.804260, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.506712, lmScore is -2.334119, amScore is -390.864380, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.134783, lmScore is -2.180651, amScore is -318.043884, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -2.771519, lmScore is -1.607373, amScore is -388.048767, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -2.774988, lmScore is -1.607342, amScore is -389.215363, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -2.799328, lmScore is -1.607342, amScore is -397.328705, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -2.795859, lmScore is -1.607373, amScore is -396.162079, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -3.527873, lmScore is -2.180651, amScore is -449.073883, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.642907, lmScore is -2.334119, amScore is -436.262756, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.663114, lmScore is -2.369306, amScore is -431.269592, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.792654, lmScore is -2.560828, amScore is -410.608643, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.879482, lmScore is -2.659704, amScore is -406.592712, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.842398, lmScore is -2.729686, amScore is -370.903778, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -2.783874, lmScore is -1.607342, amScore is -392.177399, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -3.533335, lmScore is -2.729686, amScore is -267.882965, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -3.543277, lmScore is -2.659704, amScore is -294.524292, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.470443, lmScore is -2.560828, amScore is -303.205109, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.272654, lmScore is -2.369306, amScore is -301.115967, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.520492, lmScore is -2.334119, amScore is -395.457642, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.146342, lmScore is -2.180651, amScore is -321.896942, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -2.783915, lmScore is -1.607373, amScore is -392.180725, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -2.787384, lmScore is -1.607342, amScore is -393.347321, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -3.343070, lmScore is -2.560828, amScore is -260.747437, result is sp 布 石头 ,num 3 wordListId is 313 
+totalScore is -3.309531, lmScore is -2.646924, amScore is -220.869034, result is sp 布 出 ,num 3 wordListId is 163 
+totalScore is -3.548758, lmScore is -2.659703, amScore is -296.351562, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.345952, lmScore is -2.560828, amScore is -261.708130, result is sp 布 石头 ,num 3 wordListId is 175 
+totalScore is -3.312439, lmScore is -2.646924, amScore is -221.838470, result is sp 布 出 ,num 3 wordListId is 168 
+totalScore is -3.552116, lmScore is -2.659703, amScore is -297.471039, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.435724, lmScore is -2.659703, amScore is -258.673523, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.585904, lmScore is -2.646924, amScore is -312.993286, result is sp 布 出 ,num 3 wordListId is 332 
+totalScore is -3.656652, lmScore is -2.560828, amScore is -365.274689, result is sp 布 石头 ,num 3 wordListId is 334 
+totalScore is -3.347489, lmScore is -2.560828, amScore is -262.220276, result is sp 布 石头 ,num 3 wordListId is 244 
+totalScore is -3.313702, lmScore is -2.646924, amScore is -222.259338, result is sp 布 出 ,num 3 wordListId is 316 
+totalScore is -3.553353, lmScore is -2.659703, amScore is -297.883301, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.524052, lmScore is -2.729686, amScore is -264.788391, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -3.532821, lmScore is -2.659704, amScore is -291.039062, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.459721, lmScore is -2.560828, amScore is -299.631073, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.261601, lmScore is -2.369306, amScore is -297.431763, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.508842, lmScore is -2.334119, amScore is -391.574280, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.134275, lmScore is -2.180651, amScore is -317.874786, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -2.774017, lmScore is -1.607373, amScore is -388.881287, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -2.777486, lmScore is -1.607342, amScore is -390.047852, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -2.802422, lmScore is -1.607342, amScore is -398.360077, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -2.798954, lmScore is -1.607373, amScore is -397.193512, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -3.530945, lmScore is -2.180651, amScore is -450.097870, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.646529, lmScore is -2.334119, amScore is -437.470093, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.665631, lmScore is -2.369306, amScore is -432.108398, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.795314, lmScore is -2.560828, amScore is -411.495300, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.881980, lmScore is -2.659704, amScore is -407.425354, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.844473, lmScore is -2.729686, amScore is -371.595581, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -2.783272, lmScore is -1.607342, amScore is -391.976654, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -3.530365, lmScore is -2.729686, amScore is -266.892883, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -3.540083, lmScore is -2.659704, amScore is -293.459656, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.467355, lmScore is -2.560828, amScore is -302.175720, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.269026, lmScore is -2.369306, amScore is -299.906708, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.518981, lmScore is -2.334119, amScore is -394.953918, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.142764, lmScore is -2.180651, amScore is -320.704376, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -2.783313, lmScore is -1.607373, amScore is -391.979980, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -2.786782, lmScore is -1.607342, amScore is -393.146576, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -3.341139, lmScore is -2.560828, amScore is -260.103821, result is sp 布 石头 ,num 3 wordListId is 334 
+totalScore is -3.306934, lmScore is -2.646924, amScore is -220.003204, result is sp 布 出 ,num 3 wordListId is 332 
+totalScore is -3.548254, lmScore is -2.659703, amScore is -296.183533, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.529342, lmScore is -2.729686, amScore is -266.551697, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -3.538846, lmScore is -2.659704, amScore is -293.047363, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.466027, lmScore is -2.560828, amScore is -301.732941, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.267763, lmScore is -2.369306, amScore is -299.485840, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.517185, lmScore is -2.334119, amScore is -394.355286, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.141228, lmScore is -2.180651, amScore is -320.192200, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -2.781790, lmScore is -1.607373, amScore is -391.472290, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -2.785259, lmScore is -1.607342, amScore is -392.638885, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -3.341397, lmScore is -2.560828, amScore is -260.189880, result is sp 布 石头 ,num 3 wordListId is 134 
+totalScore is -3.307494, lmScore is -2.646924, amScore is -220.190094, result is sp 布 出 ,num 3 wordListId is 124 
+totalScore is -3.548633, lmScore is -2.659703, amScore is -296.309875, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.434703, lmScore is -2.659703, amScore is -258.333405, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.584342, lmScore is -2.646924, amScore is -312.472717, result is sp 布 sp 锤子 ,num 4 wordListId is 48 
+totalScore is -3.655949, lmScore is -2.560828, amScore is -365.040283, result is ,num 0 wordListId is 50 
+totalScore is -3.346801, lmScore is -2.560828, amScore is -261.990936, result is sp 布 石头 ,num 3 wordListId is 27 
+totalScore is -3.312376, lmScore is -2.646924, amScore is -221.817291, result is sp 布 出 ,num 3 wordListId is 22 
+totalScore is -3.553423, lmScore is -2.659703, amScore is -297.906677, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.439872, lmScore is -2.659703, amScore is -260.056335, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.589817, lmScore is -2.646924, amScore is -314.297516, result is sp 布 出 ,num 3 wordListId is 279 
+totalScore is -3.661635, lmScore is -2.560828, amScore is -366.935791, result is sp 布 石头 ,num 3 wordListId is 281 
+totalScore is -3.679304, lmScore is -2.646924, amScore is -344.126648, result is sp 布 sp 锤子 ,num 4 wordListId is 48 
+totalScore is -3.914291, lmScore is -2.659703, amScore is -418.196075, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.438636, lmScore is -2.659703, amScore is -259.644104, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.588554, lmScore is -2.646924, amScore is -313.876648, result is sp 布 出 ,num 3 wordListId is 16 
+totalScore is -3.660099, lmScore is -2.560828, amScore is -366.423615, result is sp 布 石头 ,num 3 wordListId is 18 
+totalScore is -3.347059, lmScore is -2.560828, amScore is -262.076996, result is sp 布 石头 ,num 3 wordListId is 262 
+totalScore is -3.312937, lmScore is -2.646924, amScore is -222.004181, result is sp 布 出 ,num 3 wordListId is 248 
+totalScore is -3.553802, lmScore is -2.659703, amScore is -298.033020, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.438257, lmScore is -2.659703, amScore is -259.517761, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.587993, lmScore is -2.646924, amScore is -313.689789, result is sp 布 出 ,num 3 wordListId is 401 
+totalScore is -3.659840, lmScore is -2.560828, amScore is -366.337555, result is sp 布 石头 ,num 3 wordListId is 127 
+totalScore is -3.348595, lmScore is -2.560828, amScore is -262.589142, result is sp 布 石头 ,num 3 wordListId is 385 
+totalScore is -3.314199, lmScore is -2.646924, amScore is -222.425034, result is sp 布 出 ,num 3 wordListId is 379 
+totalScore is -3.555039, lmScore is -2.659703, amScore is -298.445282, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.528334, lmScore is -2.729686, amScore is -266.215820, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -3.537615, lmScore is -2.659704, amScore is -292.637085, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.464697, lmScore is -2.560828, amScore is -301.289734, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.266486, lmScore is -2.369306, amScore is -299.060272, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.515401, lmScore is -2.334119, amScore is -393.760742, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.139682, lmScore is -2.180651, amScore is -319.677032, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -2.780287, lmScore is -1.607373, amScore is -390.971222, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -2.783756, lmScore is -1.607342, amScore is -392.137817, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -3.341652, lmScore is -2.560828, amScore is -260.274872, result is sp 布 石头 ,num 3 wordListId is 328 
+totalScore is -3.308050, lmScore is -2.646924, amScore is -220.375336, result is sp 布 出 ,num 3 wordListId is 326 
+totalScore is -3.549036, lmScore is -2.659703, amScore is -296.444366, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.441740, lmScore is -2.659703, amScore is -260.678741, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.592971, lmScore is -2.646924, amScore is -315.348907, result is sp 布 出 ,num 3 wordListId is 275 
+totalScore is -3.664420, lmScore is -2.560828, amScore is -367.864227, result is sp 布 石头 ,num 3 wordListId is 103 
+totalScore is -3.679494, lmScore is -2.646924, amScore is -344.190033, result is sp 布 出 ,num 3 wordListId is 401 
+totalScore is -3.915049, lmScore is -2.659703, amScore is -418.448425, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.440503, lmScore is -2.659703, amScore is -260.266479, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.591708, lmScore is -2.646924, amScore is -314.928040, result is sp 布 出 ,num 3 wordListId is 209 
+totalScore is -3.662884, lmScore is -2.560828, amScore is -367.352051, result is sp 布 石头 ,num 3 wordListId is 285 
+totalScore is -3.680055, lmScore is -2.646924, amScore is -344.376892, result is sp 布 出 ,num 3 wordListId is 16 
+totalScore is -3.915427, lmScore is -2.659703, amScore is -418.574768, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.681317, lmScore is -2.646924, amScore is -344.797760, result is sp 布 出 ,num 3 wordListId is 279 
+totalScore is -3.916664, lmScore is -2.659703, amScore is -418.987030, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.440124, lmScore is -2.659703, amScore is -260.140137, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.591147, lmScore is -2.646924, amScore is -314.741150, result is sp 布 出 ,num 3 wordListId is 368 
+totalScore is -3.662626, lmScore is -2.560828, amScore is -367.265991, result is sp 布 石头 ,num 3 wordListId is 370 
+totalScore is -3.345835, lmScore is -2.560828, amScore is -261.669128, result is sp 布 石头 ,num 3 wordListId is 370 
+totalScore is -3.311077, lmScore is -2.646924, amScore is -221.384384, result is sp 布 出 ,num 3 wordListId is 368 
+totalScore is -3.553171, lmScore is -2.659703, amScore is -297.822662, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.439355, lmScore is -2.659703, amScore is -259.883820, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.590917, lmScore is -2.646924, amScore is -314.664215, result is sp 布 出 ,num 3 wordListId is 279 
+totalScore is -3.662913, lmScore is -2.560828, amScore is -367.361786, result is sp 布 石头 ,num 3 wordListId is 281 
+totalScore is -3.679579, lmScore is -2.646924, amScore is -344.218323, result is sp 布 sp 锤子 ,num 4 wordListId is 48 
+totalScore is -3.916083, lmScore is -2.659703, amScore is -418.793213, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.438118, lmScore is -2.659703, amScore is -259.471588, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.589654, lmScore is -2.646924, amScore is -314.243347, result is sp 布 出 ,num 3 wordListId is 16 
+totalScore is -3.661376, lmScore is -2.560828, amScore is -366.849609, result is sp 布 石头 ,num 3 wordListId is 18 
+totalScore is -3.346093, lmScore is -2.560828, amScore is -261.755188, result is sp 布 石头 ,num 3 wordListId is 285 
+totalScore is -3.311638, lmScore is -2.646924, amScore is -221.571259, result is sp 布 出 ,num 3 wordListId is 209 
+totalScore is -3.553550, lmScore is -2.659703, amScore is -297.949005, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.437739, lmScore is -2.659703, amScore is -259.345245, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.589093, lmScore is -2.646924, amScore is -314.056488, result is sp 布 出 ,num 3 wordListId is 401 
+totalScore is -3.661118, lmScore is -2.560828, amScore is -366.763550, result is sp 布 石头 ,num 3 wordListId is 127 
+totalScore is -3.347630, lmScore is -2.560828, amScore is -262.267334, result is sp 布 石头 ,num 3 wordListId is 103 
+totalScore is -3.312900, lmScore is -2.646924, amScore is -221.992126, result is sp 布 出 ,num 3 wordListId is 275 
+totalScore is -3.554787, lmScore is -2.659703, amScore is -298.361237, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.526849, lmScore is -2.729686, amScore is -265.720764, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -3.536018, lmScore is -2.659704, amScore is -292.104736, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.463153, lmScore is -2.560828, amScore is -300.775055, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.264673, lmScore is -2.369306, amScore is -298.455627, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.514646, lmScore is -2.334119, amScore is -393.508911, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.137893, lmScore is -2.180651, amScore is -319.080750, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -2.779985, lmScore is -1.607373, amScore is -390.870850, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -2.783454, lmScore is -1.607342, amScore is -392.037445, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -2.808993, lmScore is -1.607342, amScore is -400.550385, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -2.805524, lmScore is -1.607373, amScore is -399.383759, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -3.538141, lmScore is -2.180651, amScore is -452.496429, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.653844, lmScore is -2.334119, amScore is -439.908447, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.672330, lmScore is -2.369306, amScore is -434.341553, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.801834, lmScore is -2.560828, amScore is -413.668640, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.888371, lmScore is -2.659704, amScore is -409.555725, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.850241, lmScore is -2.729686, amScore is -373.518066, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -2.787673, lmScore is -1.607342, amScore is -393.443542, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -4.204754, lmScore is -3.378021, amScore is -275.577545, result is ,num 0 wordListId is 217 
+totalScore is -3.532119, lmScore is -2.729686, amScore is -267.477539, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -3.542021, lmScore is -2.659704, amScore is -294.105591, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.469453, lmScore is -2.560828, amScore is -302.875214, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.270821, lmScore is -2.369306, amScore is -300.505280, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.522960, lmScore is -2.334119, amScore is -396.280396, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.144836, lmScore is -2.180651, amScore is -321.395020, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -2.787714, lmScore is -1.607373, amScore is -393.446869, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -2.791182, lmScore is -1.607342, amScore is -394.613464, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -4.218081, lmScore is -3.327662, amScore is -296.806458, result is sp 布 是 ,num 3 wordListId is 128 
+totalScore is -3.343050, lmScore is -2.560828, amScore is -260.740723, result is sp 布 石头 ,num 3 wordListId is 127 
+totalScore is -4.435027, lmScore is -3.784179, amScore is -216.949280, result is sp 布 锤子 ,num 3 wordListId is 126 
+totalScore is -3.307923, lmScore is -2.646924, amScore is -220.333008, result is sp 布 出 ,num 3 wordListId is 401 
+totalScore is -3.551304, lmScore is -2.659703, amScore is -297.200256, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -4.521270, lmScore is -3.378019, amScore is -381.083679, result is ,num 0 wordListId is 217 
+totalScore is -4.237569, lmScore is -3.384086, amScore is -284.494537, result is ,num 0 wordListId is 218 
+totalScore is -4.753449, lmScore is -3.784180, amScore is -323.089752, result is ,num 0 wordListId is 183 
+totalScore is -4.873741, lmScore is -3.784179, amScore is -363.187347, result is ,num 0 wordListId is 183 
+totalScore is -4.896340, lmScore is -3.755367, amScore is -380.324463, result is ,num 0 wordListId is 282 
+totalScore is -4.304045, lmScore is -3.384086, amScore is -306.652832, result is ,num 0 wordListId is 218 
+totalScore is -4.203686, lmScore is -3.378021, amScore is -275.221741, result is ,num 0 wordListId is 217 
+totalScore is -3.531096, lmScore is -2.729686, amScore is -267.136353, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -3.540784, lmScore is -2.659704, amScore is -293.693359, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.468125, lmScore is -2.560828, amScore is -302.432404, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.269559, lmScore is -2.369306, amScore is -300.084442, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.521164, lmScore is -2.334119, amScore is -395.681763, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.143300, lmScore is -2.180651, amScore is -320.882874, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -2.786191, lmScore is -1.607373, amScore is -392.939178, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -2.789659, lmScore is -1.607342, amScore is -394.105774, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -4.218339, lmScore is -3.327662, amScore is -296.892517, result is sp 布 是 ,num 3 wordListId is 19 
+totalScore is -3.343308, lmScore is -2.560828, amScore is -260.826782, result is sp 布 石头 ,num 3 wordListId is 18 
+totalScore is -4.435587, lmScore is -3.784179, amScore is -217.136169, result is sp 布 锤子 ,num 3 wordListId is 17 
+totalScore is -3.308484, lmScore is -2.646924, amScore is -220.519897, result is sp 布 出 ,num 3 wordListId is 16 
+totalScore is -3.551683, lmScore is -2.659703, amScore is -297.326599, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -4.521574, lmScore is -3.378019, amScore is -381.184998, result is ,num 0 wordListId is 217 
+totalScore is -4.237777, lmScore is -3.384086, amScore is -284.563873, result is ,num 0 wordListId is 218 
+totalScore is -4.752821, lmScore is -3.784180, amScore is -322.880371, result is ,num 0 wordListId is 183 
+totalScore is -4.757769, lmScore is -3.784180, amScore is -324.529816, result is ,num 0 wordListId is 183 
+totalScore is -4.407426, lmScore is -3.384086, amScore is -341.113403, result is ,num 0 wordListId is 218 
+totalScore is -4.752921, lmScore is -3.378019, amScore is -458.300781, result is ,num 0 wordListId is 217 
+totalScore is -3.436982, lmScore is -2.659703, amScore is -259.092896, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.588903, lmScore is -2.646924, amScore is -313.993103, result is sp 布 sp 锤子 ,num 4 wordListId is 48 
+totalScore is -4.671464, lmScore is -3.784179, amScore is -295.761902, result is ,num 0 wordListId is 49 
+totalScore is -3.661417, lmScore is -2.560828, amScore is -366.863037, result is ,num 0 wordListId is 50 
+totalScore is -4.386259, lmScore is -3.327662, amScore is -352.865631, result is ,num 0 wordListId is 53 
+totalScore is -4.219876, lmScore is -3.327662, amScore is -297.404694, result is sp 布 是 ,num 3 wordListId is 154 
+totalScore is -3.344845, lmScore is -2.560828, amScore is -261.338928, result is sp 布 石头 ,num 3 wordListId is 281 
+totalScore is -4.436850, lmScore is -3.784179, amScore is -217.557037, result is sp 布 锤子 ,num 3 wordListId is 280 
+totalScore is -3.309746, lmScore is -2.646924, amScore is -220.940750, result is sp 布 出 ,num 3 wordListId is 279 
+totalScore is -3.552920, lmScore is -2.659703, amScore is -297.738861, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -4.522641, lmScore is -3.378019, amScore is -381.540833, result is ,num 0 wordListId is 217 
+totalScore is -4.239236, lmScore is -3.384086, amScore is -285.050079, result is ,num 0 wordListId is 218 
+totalScore is -4.754652, lmScore is -3.784180, amScore is -323.490814, result is ,num 0 wordListId is 183 
+totalScore is -4.874369, lmScore is -3.784179, amScore is -363.396729, result is ,num 0 wordListId is 183 
+totalScore is -4.896727, lmScore is -3.755367, amScore is -380.453400, result is ,num 0 wordListId is 282 
+totalScore is -4.303837, lmScore is -3.384086, amScore is -306.583496, result is ,num 0 wordListId is 218 
+totalScore is -4.203382, lmScore is -3.378021, amScore is -275.120392, result is ,num 0 wordListId is 217 
+totalScore is -3.530616, lmScore is -2.729686, amScore is -266.976624, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -3.540405, lmScore is -2.659704, amScore is -293.567017, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.467906, lmScore is -2.560828, amScore is -302.359497, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.268998, lmScore is -2.369306, amScore is -299.897583, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.522177, lmScore is -2.334119, amScore is -396.019348, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.143042, lmScore is -2.180651, amScore is -320.796814, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -2.787371, lmScore is -1.607373, amScore is -393.332794, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -2.790840, lmScore is -1.607342, amScore is -394.499359, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -4.214199, lmScore is -3.327662, amScore is -295.512177, result is ,num 0 wordListId is 53 
+totalScore is -3.339158, lmScore is -2.560828, amScore is -259.443420, result is ,num 0 wordListId is 50 
+totalScore is -4.431376, lmScore is -3.784179, amScore is -215.732330, result is ,num 0 wordListId is 49 
+totalScore is -3.304272, lmScore is -2.646924, amScore is -219.115936, result is sp 布 sp 锤子 ,num 4 wordListId is 48 
+totalScore is -3.547751, lmScore is -2.659703, amScore is -296.015930, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -4.517859, lmScore is -3.378019, amScore is -379.946472, result is ,num 0 wordListId is 217 
+totalScore is -4.233852, lmScore is -3.384086, amScore is -283.255646, result is ,num 0 wordListId is 218 
+totalScore is -4.749062, lmScore is -3.784180, amScore is -321.627228, result is ,num 0 wordListId is 183 
+totalScore is -4.868159, lmScore is -3.784179, amScore is -361.326599, result is ,num 0 wordListId is 183 
+totalScore is -4.890266, lmScore is -3.755367, amScore is -378.299774, result is ,num 0 wordListId is 282 
+totalScore is -4.298682, lmScore is -3.384086, amScore is -304.865417, result is ,num 0 wordListId is 218 
+totalScore is -4.198954, lmScore is -3.378021, amScore is -273.644135, result is ,num 0 wordListId is 217 
+totalScore is -3.526336, lmScore is -2.729686, amScore is -265.549866, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -3.535614, lmScore is -2.659704, amScore is -291.970215, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.462932, lmScore is -2.560828, amScore is -300.701477, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.264117, lmScore is -2.369306, amScore is -298.270386, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.515618, lmScore is -2.334119, amScore is -393.833130, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.137639, lmScore is -2.180651, amScore is -318.995758, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -2.781105, lmScore is -1.607373, amScore is -391.244110, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -2.784574, lmScore is -1.607342, amScore is -392.410706, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -2.810496, lmScore is -1.607342, amScore is -401.051422, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -2.807027, lmScore is -1.607373, amScore is -399.884857, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -3.539686, lmScore is -2.180651, amScore is -453.011566, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.655628, lmScore is -2.334119, amScore is -440.502960, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.673607, lmScore is -2.369306, amScore is -434.767151, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.803163, lmScore is -2.560828, amScore is -414.111816, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.889602, lmScore is -2.659704, amScore is -409.966034, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.851248, lmScore is -2.729686, amScore is -373.853943, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -4.486052, lmScore is -3.378021, amScore is -369.343567, result is ,num 0 wordListId is 217 
+totalScore is -4.666647, lmScore is -3.384086, amScore is -427.520233, result is ,num 0 wordListId is 218 
+totalScore is -5.211520, lmScore is -3.755367, amScore is -485.384521, result is ,num 0 wordListId is 282 
+totalScore is -5.112190, lmScore is -3.784179, amScore is -442.670258, result is ,num 0 wordListId is 183 
+totalScore is -2.787266, lmScore is -1.607342, amScore is -393.307861, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -4.868787, lmScore is -3.784179, amScore is -361.535980, result is ,num 0 wordListId is 183 
+totalScore is -4.890653, lmScore is -3.755367, amScore is -378.428711, result is ,num 0 wordListId is 282 
+totalScore is -4.298474, lmScore is -3.384086, amScore is -304.796082, result is ,num 0 wordListId is 218 
+totalScore is -4.198649, lmScore is -3.378021, amScore is -273.542786, result is ,num 0 wordListId is 217 
+totalScore is -3.525857, lmScore is -2.729686, amScore is -265.390137, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -3.535235, lmScore is -2.659704, amScore is -291.843872, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.462713, lmScore is -2.560828, amScore is -300.628540, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.263556, lmScore is -2.369306, amScore is -298.083496, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.516631, lmScore is -2.334119, amScore is -394.170654, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.137380, lmScore is -2.180651, amScore is -318.909698, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -2.782286, lmScore is -1.607373, amScore is -391.637726, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -2.785755, lmScore is -1.607342, amScore is -392.804291, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -2.812020, lmScore is -1.607342, amScore is -401.559174, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -2.808551, lmScore is -1.607373, amScore is -400.392548, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -3.541223, lmScore is -2.180651, amScore is -453.523773, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.657424, lmScore is -2.334119, amScore is -441.101593, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.674870, lmScore is -2.369306, amScore is -435.187988, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.804492, lmScore is -2.560828, amScore is -414.554688, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.890839, lmScore is -2.659704, amScore is -410.378265, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.852272, lmScore is -2.729686, amScore is -374.195129, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -4.487119, lmScore is -3.378021, amScore is -369.699341, result is ,num 0 wordListId is 217 
+totalScore is -4.668106, lmScore is -3.384086, amScore is -428.006439, result is ,num 0 wordListId is 218 
+totalScore is -5.213408, lmScore is -3.755367, amScore is -486.013794, result is ,num 0 wordListId is 282 
+totalScore is -5.114021, lmScore is -3.784179, amScore is -443.280701, result is ,num 0 wordListId is 183 
+totalScore is -2.786927, lmScore is -1.607342, amScore is -393.195007, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -2.808510, lmScore is -1.607342, amScore is -400.389191, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -4.684170, lmScore is -3.784179, amScore is -299.997070, result is ,num 0 wordListId is 183 
+totalScore is -4.768796, lmScore is -3.755367, amScore is -337.809845, result is ,num 0 wordListId is 282 
+totalScore is -4.335097, lmScore is -3.384086, amScore is -317.003632, result is ,num 0 wordListId is 218 
+totalScore is -4.258323, lmScore is -3.378021, amScore is -293.434021, result is ,num 0 wordListId is 217 
+totalScore is -3.633529, lmScore is -2.729686, amScore is -301.280853, result is sp sil 平 ,num 3 wordListId is 395 
+totalScore is -3.613898, lmScore is -2.659704, amScore is -318.064850, result is sp 布 你 ,num 3 wordListId is 152 
+totalScore is -3.506850, lmScore is -2.560828, amScore is -315.340729, result is sp 布 剪刀 ,num 3 wordListId is 95 
+totalScore is -3.394389, lmScore is -2.369306, amScore is -341.694489, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.241392, lmScore is -2.334119, amScore is -302.424347, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -3.191323, lmScore is -2.180651, amScore is -336.890442, result is sp 布 ,num 2 wordListId is 13 
+totalScore is -2.459937, lmScore is -1.607373, amScore is -284.188141, result is sp 布 sil ,num 3 wordListId is 188 
+totalScore is -2.463406, lmScore is -1.607342, amScore is -285.354736, result is sp 布 sp ,num 3 wordListId is 307 
+totalScore is -9.363540, lmScore is -8.529642, amScore is -277.965759, result is sp 你 ,num 2 wordListId is 8 
+totalScore is -9.772689, lmScore is -8.529642, amScore is -414.348969, result is sp 你 ,num 2 wordListId is 8 
+totalScore is -20.000000, lmScore is -20.000000, amScore is -20.000000, result is sp 你 ,num 2 wordListId is 8 
+totalScore is -15.086181, lmScore is -14.430766, amScore is -218.471664, result is sp 剪刀 ,num 2 wordListId is 7 
+totalScore is -9.673813, lmScore is -8.430766, amScore is -414.348969, result is sp 剪刀 ,num 2 wordListId is 7 
+totalScore is -20.000000, lmScore is -20.000000, amScore is -20.000000, result is sp 剪刀 ,num 2 wordListId is 7 
+totalScore is -10.283455, lmScore is -9.653141, amScore is -210.104706, result is sp 锤子 ,num 2 wordListId is 6 
+totalScore is -9.153072, lmScore is -8.515886, amScore is -212.395294, result is sp 出 ,num 2 wordListId is 5 
+totalScore is -9.481315, lmScore is -8.238268, amScore is -414.348969, result is sp ,num 1 wordListId is 1 
+totalScore is -20.000000, lmScore is -20.000000, amScore is -20.000000, result is sp ,num 1 wordListId is 1 
+totalScore is -15.102619, lmScore is -14.204058, amScore is -299.520355, result is sp ,num 1 wordListId is 1 
+totalScore is -9.447104, lmScore is -8.204058, amScore is -414.348969, result is sp ,num 1 wordListId is 1 
+totalScore is -20.000000, lmScore is -20.000000, amScore is -20.000000, result is sp ,num 1 wordListId is 1 
+totalScore is -9.970058, lmScore is -9.197600, amScore is -257.486176, result is sp 是 ,num 2 wordListId is 4 
+totalScore is -9.214149, lmScore is -8.430766, amScore is -261.127899, result is sp 石头 ,num 2 wordListId is 3 
+totalScore is -9.293636, lmScore is -8.050590, amScore is -414.348969, result is sp ,num 1 wordListId is 1 
+totalScore is -20.000000, lmScore is -20.000000, amScore is -20.000000, result is sp ,num 1 wordListId is 1 
+totalScore is -8.116351, lmScore is -7.476335, amScore is -213.338730, result is sp sil ,num 2 wordListId is 2 
+totalScore is -32.900002, lmScore is -20.000000, amScore is -4300.000000, result is sp ,num 1 wordListId is 1 
+bestScore is -2.459937, wordListId is 188, 

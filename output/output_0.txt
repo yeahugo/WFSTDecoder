@@ -1,0 +1,47 @@
+result:sil ,hmmseq:<eps>|,totalScore:-4.346556,amScore:0.000000,lmScore:-6.346556,hmmind:0,hypId:1,num:1,ref:1
+result:sp ,hmmseq:<eps>|,totalScore:-4.346887,amScore:0.000000,lmScore:-6.346887,hmmind:0,hypId:24,num:1,ref:1
+result:sp <eps> ,hmmseq:<eps>|sp|,totalScore:-17.417404,amScore:-64.515427,lmScore:-10.965862,hmmind:590,hypId:26,num:2,ref:2
+result:sp <eps> ,hmmseq:<eps>|sp|,totalScore:-17.639679,amScore:-64.515427,lmScore:-11.188136,hmmind:590,hypId:28,num:2,ref:2
+result:sp <eps> ,hmmseq:<eps>|sp|,totalScore:-17.849342,amScore:-64.515427,lmScore:-11.397799,hmmind:590,hypId:31,num:2,ref:2
+result:sil <eps> ,hmmseq:<eps>|sil|,totalScore:-18.278337,amScore:-73.124748,lmScore:-10.965862,hmmind:15786,hypId:14,num:2,ref:1
+result:sil <eps> ,hmmseq:<eps>|sil|,totalScore:-18.500610,amScore:-73.124748,lmScore:-11.188136,hmmind:15786,hypId:15,num:2,ref:1
+result:sil <eps> ,hmmseq:<eps>|sil|,totalScore:-18.710274,amScore:-73.124748,lmScore:-11.397799,hmmind:15786,hypId:16,num:2,ref:1
+result:sil sp ,hmmseq:<eps>|sp|,totalScore:-18.787687,amScore:-64.515427,lmScore:-12.336144,hmmind:590,hypId:2,num:2,ref:2
+result:sp 布 ,hmmseq:<eps>|sp|,totalScore:-19.939226,amScore:-64.515427,lmScore:-13.487683,hmmind:590,hypId:34,num:2,ref:2
+result:sp 剪刀 ,hmmseq:<eps>|sp|,totalScore:-19.939226,amScore:-64.515427,lmScore:-13.487683,hmmind:590,hypId:36,num:2,ref:2
+result:sp 了 ,hmmseq:<eps>|sp|,totalScore:-19.939226,amScore:-64.515427,lmScore:-13.487683,hmmind:590,hypId:38,num:2,ref:2
+result:sp 你 ,hmmseq:<eps>|sp|,totalScore:-20.103062,amScore:-64.515427,lmScore:-13.651520,hmmind:590,hypId:40,num:2,ref:2
+result:sp  ,hmmseq:<eps>|sp|,totalScore:-20.243753,amScore:-64.515427,lmScore:-13.792211,hmmind:590,hypId:42,num:2,ref:2
+result:sp sil ,hmmseq:<eps>|uu2-k+uu3|,totalScore:-20.532103,amScore:-81.962883,lmScore:-12.335814,hmmind:100,hypId:25,num:2,ref:1
+result:sil 剪刀 ,hmmseq:<eps>|sil|,totalScore:-20.800158,amScore:-73.124748,lmScore:-13.487683,hmmind:15786,hypId:18,num:2,ref:1
+result:sil 了 ,hmmseq:<eps>|sil|,totalScore:-20.800158,amScore:-73.124748,lmScore:-13.487683,hmmind:15786,hypId:19,num:2,ref:1
+result:sil 布 ,hmmseq:<eps>|sil|,totalScore:-20.800158,amScore:-73.124748,lmScore:-13.487683,hmmind:15786,hypId:17,num:2,ref:1
+result:sil 你 ,hmmseq:<eps>|sil|,totalScore:-20.963995,amScore:-73.124748,lmScore:-13.651520,hmmind:15786,hypId:20,num:2,ref:1
+result:sp 的 ,hmmseq:<eps>|sp|,totalScore:-20.974503,amScore:-64.515427,lmScore:-14.522961,hmmind:590,hypId:44,num:2,ref:2
+result:sil  ,hmmseq:<eps>|sil|,totalScore:-21.104685,amScore:-73.124748,lmScore:-13.792210,hmmind:15786,hypId:21,num:2,ref:1
+result:sp 平 ,hmmseq:<eps>|sp|,totalScore:-21.452997,amScore:-64.515427,lmScore:-15.001454,hmmind:590,hypId:46,num:2,ref:2
+result:sil 的 ,hmmseq:<eps>|sil|,totalScore:-21.835436,amScore:-73.124748,lmScore:-14.522961,hmmind:15786,hypId:22,num:2,ref:1
+result:sil 平 ,hmmseq:<eps>|sil|,totalScore:-22.313929,amScore:-73.124748,lmScore:-15.001454,hmmind:15786,hypId:23,num:2,ref:1
+result:sp 平 <eps> ,hmmseq:<eps>|sp|p+i2|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-15.001454,hmmind:18332,hypId:47,num:3,ref:1
+result:sp 了 <eps> ,hmmseq:<eps>|sp|l+e1|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-13.487684,hmmind:1665,hypId:39,num:3,ref:1
+result:sp 你 <eps> ,hmmseq:<eps>|sp|n+i3|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-13.651521,hmmind:9502,hypId:41,num:3,ref:1
+result:sp  <eps> ,hmmseq:<eps>|sp|iii+i2|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-13.792211,hmmind:16158,hypId:43,num:3,ref:1
+result:sp 剪刀 <eps> ,hmmseq:<eps>|sp|j+i3|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-13.487683,hmmind:28093,hypId:37,num:3,ref:1
+result:sp 的 <eps> ,hmmseq:<eps>|sp|d+e1|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-14.522961,hmmind:3254,hypId:45,num:3,ref:1
+result:sp 布 <eps> ,hmmseq:<eps>|sp|b+u4|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-13.487684,hmmind:29827,hypId:35,num:3,ref:1
+result:sil sp sil ,hmmseq:<eps>|sp|uu2-k+uu3|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-18.325071,hmmind:100,hypId:3,num:3,ref:1
+result:sp <eps> 石头 ,hmmseq:<eps>|sp|sh+ix2|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-14.939205,hmmind:26317,hypId:33,num:3,ref:1
+result:sp <eps> 是 ,hmmseq:<eps>|sp|sh+ix4|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-13.633676,hmmind:26320,hypId:32,num:3,ref:1
+result:sp <eps> 锤子 ,hmmseq:<eps>|sp|ch+u2|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-14.889400,hmmind:9188,hypId:30,num:3,ref:1
+result:sp <eps> 出 ,hmmseq:<eps>|sp|ch+u1|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-13.387145,hmmind:9187,hypId:29,num:3,ref:1
+result:sp <eps> <eps> ,hmmseq:<eps>|sp|iuu+u3|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-10.965862,hmmind:7385,hypId:27,num:3,ref:1
+result:sil sp 平 ,hmmseq:<eps>|sp|sp|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-20.990711,hmmind:590,hypId:13,num:3,ref:1
+result:sil sp 的 ,hmmseq:<eps>|sp|sp|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-20.512218,hmmind:590,hypId:12,num:3,ref:1
+result:sil sp  ,hmmseq:<eps>|sp|sp|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-19.781467,hmmind:590,hypId:11,num:3,ref:1
+result:sil sp 你 ,hmmseq:<eps>|sp|sp|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-19.640778,hmmind:590,hypId:10,num:3,ref:1
+result:sil sp 了 ,hmmseq:<eps>|sp|sp|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-19.476940,hmmind:590,hypId:9,num:3,ref:1
+result:sil sp 剪刀 ,hmmseq:<eps>|sp|sp|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-19.476940,hmmind:590,hypId:8,num:3,ref:1
+result:sil sp 布 ,hmmseq:<eps>|sp|sp|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-19.476940,hmmind:590,hypId:7,num:3,ref:1
+result:sil sp <eps> ,hmmseq:<eps>|sp|sp|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-17.387058,hmmind:590,hypId:6,num:3,ref:1
+result:sil sp <eps> ,hmmseq:<eps>|sp|sp|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-17.177395,hmmind:590,hypId:5,num:3,ref:1
+result:sil sp <eps> ,hmmseq:<eps>|sp|sp|,totalScore:-1000000000.000000,amScore:-10000000000.000000,lmScore:-16.955120,hmmind:590,hypId:4,num:3,ref:1
